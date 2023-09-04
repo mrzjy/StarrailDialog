@@ -1,3 +1,5 @@
+import json
+import os
 import re
 
 import pandas as pd
@@ -17,5 +19,15 @@ def text_normalization(content: str) -> str:
     content = re.sub(r"\s*<br />\s*", " ", content)
     content = re.sub(r" ", " ", content)
     content = re.sub(r"<[^>]+>", "", content)
-
     return content
+
+
+def load_text_hash_map(repo: str, lang: str):
+    # get text map
+    with open(
+            os.path.join(repo, "TextMap", f"TextMap{lang}.json"),
+            "r",
+            encoding="utf-8",
+    ) as f:
+        map_hash_to_text = json.load(f)
+    return map_hash_to_text

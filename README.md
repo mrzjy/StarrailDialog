@@ -1,6 +1,6 @@
 # StarrailDialogue
 
-This is a small personal project that extracts starrail text corpus (including dialogue and miscellaneous items).
+This is a small personal project that extracts Honkai: Star Rail text corpus (including dialogue and miscellaneous items).
 
 ### Disclaimer
 
@@ -18,9 +18,13 @@ The logic is simple:
 3. Run the codes that extract different various text corpus
 
 
-### Extraction Support
+### Feature Support
+
+What data can be extracted:
 
 - [x] Messages: Text communications that the Trailblazer receives from other Characters and NPCs. [\[Ref\]](https://honkai-star-rail.fandom.com/wiki/Messages)
+- [ ] Misc
+  - [x] Books
 
 Note: 
 - Extraction results are stored in the "data" folder. I won't provide full extraction results, please run the code yourself to get full extracted data.
@@ -137,4 +141,21 @@ python get_messages.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
       }
    ]
 }
+~~~
+
+#### Misc
+
+The resulting extraction contains miscellaneous items
+
+- Code
+
+~~~
+python get_misc.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
+~~~
+
+- Example
+
+~~~
+# books.jsonl
+{"BookSeriesID": 1, "BookSeries": "Floriography Manual Attached to a Bouquet", "BookSeriesComments": "Contains commonly used floriography in Belobog. The ways of the world are condensed into this manual.", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
 ~~~

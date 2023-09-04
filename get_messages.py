@@ -2,7 +2,7 @@ import argparse
 import json
 import os
 
-from util import text_normalization
+from util import text_normalization, load_text_hash_map
 
 _UNKNOWN_SECTION_ID = -99999999999999
 
@@ -19,13 +19,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # get text map
-    with open(
-        os.path.join(args.repo, "TextMap", f"TextMap{args.lang}.json"),
-        "r",
-        encoding="utf-8",
-    ) as f:
-        map_hash_to_text = json.load(f)
-        map_hash_to_text["371857150"] = "N/A"
+    map_hash_to_text = load_text_hash_map(args.repo, args.lang)
+    map_hash_to_text["371857150"] = "N/A"
 
     # get contacts camp
     with open(
