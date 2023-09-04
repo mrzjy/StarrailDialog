@@ -1,2 +1,140 @@
 # StarrailDialogue
-A project that extracts starrail text corpus
+
+This is a small personal project that extracts starrail text corpus (including dialogue and miscellaneous items).
+
+### Disclaimer
+
+While this project is based on the legendary [Dim's StarRailData](https://github.com/Dimbreath/StarRailData) project, there are other more plausible data sources to achieve the same thing:
+
+- For example, go to the relevant fandom statistics page: https://honkai-star-rail.fandom.com/wiki/Special:Statistics, and download directly the wiki data dump.
+
+![fandom.png](img%2Ffandom.png)
+
+### Steps
+
+The logic is simple:
+1. Git clone [Dim's StarRailData](https://github.com/Dimbreath/StarRailData)
+2. Cd to this repo
+3. Run the codes that extract different various text corpus
+
+
+### Extraction Support
+
+- [x] Messages: Text communications that the Trailblazer receives from other Characters and NPCs. [\[Ref\]](https://honkai-star-rail.fandom.com/wiki/Messages)
+
+Note: 
+- Extraction results are stored in the "data" folder. I won't provide full extraction results, please run the code yourself to get full extracted data.
+- Bugs or data problems possibly exist, feel free to PR (although the author is not very active...)
+- There are string variables (e.g., "{NICKNAME}" stands for trailblazer's name) in the corpus.
+
+#### Messages
+
+The resulting extraction remains structured, waiting for you to be further processed.
+
+- Code
+
+~~~
+python get_messages.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
+~~~
+
+- Example
+
+~~~
+{
+   "ID":1000200,
+   "StartMessageItemIDList":[
+      100020001
+   ],
+   "IsPerformMessage":true,
+   "contacts":[
+      {
+         "ID":1013,
+         "Name":"Herta",
+         "IconPath":"SpriteOutput/AvatarRoundIcon/1013.png",
+         "SignatureText":"This account is disabled | Business Contact: Asta",
+         "ContactsType":1,
+         "ContactsCamp":"Herta Space Station"
+      }
+   ],
+   "messages":[
+      {
+         "ID":100020001,
+         "Sender":"NPC",
+         "ItemType":"Text",
+         "MainText":"Hey, {NICKNAME}, it's Herta. I need you for something good",
+         "OptionText":"N/A",
+         "NextItemIDList":[
+            100020002
+         ],
+         "SectionID":1000200
+      },
+      {
+         "ID":100020002,
+         "Sender":"NPC",
+         "ItemType":"Text",
+         "MainText":"Come to my office quickly! I'm waiting!",
+         "OptionText":"N/A",
+         "NextItemIDList":[
+            100020003
+         ],
+         "SectionID":1000200
+      },
+      {
+         "ID":100020003,
+         "Sender":"PlayerAuto",
+         "ItemType":"Text",
+         "MainText":"?",
+         "OptionText":"N/A",
+         "NextItemIDList":[
+            100020004,
+            100020005
+         ],
+         "SectionID":1000200
+      },
+      {
+         "ID":100020004,
+         "Sender":"Player",
+         "ItemType":"Text",
+         "MainText":"But you're right next to me",
+         "OptionText":"But you're right next to me",
+         "NextItemIDList":[
+            100020006
+         ],
+         "SectionID":1000200
+      },
+      {
+         "ID":100020005,
+         "Sender":"Player",
+         "ItemType":"Text",
+         "MainText":"Can't you just tell me",
+         "OptionText":"Can't you just tell me",
+         "NextItemIDList":[
+            100020006
+         ],
+         "SectionID":1000200
+      },
+      {
+         "ID":100020006,
+         "Sender":"NPC",
+         "ItemType":"Text",
+         "MainText":"[Automatic reply] Hi, I'm currently unavailable, and I won't be contacting you later",
+         "OptionText":"N/A",
+         "NextItemIDList":[
+            100020007
+         ],
+         "SectionID":1000200
+      },
+      {
+         "ID":100020007,
+         "Sender":"PlayerAuto",
+         "ItemType":"Text",
+         "MainText":"???",
+         "OptionText":"N/A",
+         "NextItemIDList":[
+            
+         ],
+         "SectionID":1000200
+      }
+   ]
+}
+~~~
