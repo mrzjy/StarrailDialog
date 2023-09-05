@@ -14,8 +14,8 @@ While this project is based on the legendary [Dim's StarRailData](https://github
 
 The logic is simple:
 1. Git clone [Dim's StarRailData](https://github.com/Dimbreath/StarRailData)
-2. Cd to this repo
-3. Run the codes that extract different various text corpus
+2. Git clone and cd to this repo
+3. Run the extraction codes by specifying Dim's starrail data path 
 
 
 ### Feature Support
