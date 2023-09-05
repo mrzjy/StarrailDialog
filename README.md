@@ -27,6 +27,7 @@ What data can be extracted:
   - [x] Books
   - [x] Submissions
   - [x] Items
+  - [x] Maze buffs
 
 Note: 
 - Extraction results are stored in the "data" folder. I won't provide full extraction results, please run the code yourself to get full extracted data.
@@ -166,4 +167,7 @@ python get_misc.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
 
 # items.jsonl
 {"ID": 2, "ItemMainType": "Virtual", "ItemSubType": "Virtual", "InventoryDisplayTag": 1, "Rarity": "Rare", "PurposeType": 11, "ItemName": "Credit", "ItemDesc": "This currency, used by the Interastral Peace Corporation to settle accounts with its customers, is now widely accepted as the hard currency for space travel.", "ItemBGDesc": "\"People run around fighting and trading for numbers in a terminal, but the truly precious cannot be bought.\"", "ItemIconPath": "SpriteOutput/ItemIcon/2.png", "ItemFigureIconPath": "SpriteOutput/ItemFigures/2.png", "ItemCurrencyIconPath": "SpriteOutput/ItemCurrency/2.png", "ItemAvatarIconPath": "", "PileLimit": 999999999, "CustomDataList": [], "ReturnItemIDList": []}
+
+# maze_buff.jsonl
+{"1": {"ID": 100201, "BuffSeries": 1, "BuffRarity": 1, "Lv": 1, "LvMax": 1, "ModifierName": "ADV_StageAbility_Maze_DanHeng", "InBattleBindingType": "CharacterSkill", "InBattleBindingKey": "SkillMaze", "ParamList": [], "BuffDescParamByAvatarSkillID": 100207, "BuffIcon": "SpriteOutput/BuffIcon/Inlevel/Icon1002Maze.png", "BuffName": "Splitting Spearhead", "BuffDesc": "At the start of the next battle, Dan Heng's ATK increases by #1[i]% for #2[i] turn(s).", "BuffSimpleDesc": "N/A", "BuffDescBattle": "At the start of the next battle, Dan Heng's ATK increases by #1[i]% for #2[i] turn(s).", "BuffEffect": "MazeBuffEffect_100201", "MazeBuffType": "Character", "MazeBuffIconType": "Other", "MazeBuffPool": 3, "IsDisplay": true}}
 ~~~
