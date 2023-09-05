@@ -25,6 +25,7 @@ What data can be extracted:
 - [x] Messages: Text communications that the Trailblazer receives from other Characters and NPCs. [\[Ref\]](https://honkai-star-rail.fandom.com/wiki/Messages)
 - [ ] Misc
   - [x] Books
+  - [x] Submissions
 
 Note: 
 - Extraction results are stored in the "data" folder. I won't provide full extraction results, please run the code yourself to get full extracted data.
@@ -158,4 +159,7 @@ python get_misc.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
 ~~~
 # books.jsonl
 {"BookSeriesID": 1, "BookSeries": "Floriography Manual Attached to a Bouquet", "BookSeriesComments": "Contains commonly used floriography in Belobog. The ways of the world are condensed into this manual.", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+
+# submissions.jsonl
+{"SubMissionID": 100010100, "TargetText": "Use a fake identity to get past security check", "DescrptionText": "The woman sauntering elegantly across the invasion site is a mystery. She mocks the victims, while also ruthlessly eliminating their oppressors.\\n Over their comms, the mysterious helper revealed that the two seem to have some sort of agenda.\\nIs their presence a sign of more chaos to come? Or is it the start of a new story?"}
 ~~~
