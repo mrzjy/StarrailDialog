@@ -59,7 +59,6 @@ def get_items(repo, map_hash_to_text, output_dir):
                     continue
                 unique_set.add(feature_str)
                 print(json.dumps(info, ensure_ascii=False), file=f)
-                break
             except KeyError:
                 print("warning: ", idx, "text hash not found")
 
