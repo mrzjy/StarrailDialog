@@ -44,7 +44,7 @@ if __name__ == '__main__':
         "--repo",
         default="../StarRailData",
         type=str,
-        # required=True,
+        required=True,
         help="data dir",
     )
     parser.add_argument("--lang", default="CHS", type=str, help="language type")
