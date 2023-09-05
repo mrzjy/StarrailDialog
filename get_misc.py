@@ -5,19 +5,42 @@ import os
 from util import text_normalization, load_text_hash_map
 
 
-def get_books(repo, map_hash_to_text):
+def get_books(repo, map_hash_to_text, output_dir):
     with open(os.path.join(repo, "ExcelOutput/BookSeriesConfig.json"), "r", encoding="utf-8") as f:
         books = json.load(f)
 
-    with open(os.path.join("data", "books.jsonl"), "w", encoding="utf-8") as f:
+    unique_set = set()
+    with open(os.path.join(output_dir, "books.jsonl"), "w", encoding="utf-8") as f:
         for book_id, info in books.items():
             try:
                 info["BookSeries"] = text_normalization(map_hash_to_text[str(info["BookSeries"]["Hash"])])
                 info["BookSeriesComments"] = text_normalization(map_hash_to_text[str(info["BookSeriesComments"]["Hash"])])
-                books[book_id] = info
+                feature_str = info["BookSeries"] + info["BookSeriesComments"]
+                if feature_str in unique_set:
+                    continue
+                unique_set.add(feature_str)
                 print(json.dumps(info, ensure_ascii=False), file=f)
             except KeyError:
                 print("warning: ", book_id, "text hash not found")
+
+
+def get_submissions(repo, map_hash_to_text, output_dir):
+    with open(os.path.join(repo, "ExcelOutput/SubMission.json"), "r", encoding="utf-8") as f:
+        submissions = json.load(f)
+
+    unique_set = set()
+    with open(os.path.join(output_dir, "submissions.jsonl"), "w", encoding="utf-8") as f:
+        for mission_id, info in submissions.items():
+            try:
+                info["TargetText"] = text_normalization(map_hash_to_text[str(info["TargetText"]["Hash"])])
+                info["DescrptionText"] = text_normalization(map_hash_to_text[str(info["DescrptionText"]["Hash"])])
+                feature_str = info["TargetText"] + info["DescrptionText"]
+                if feature_str in unique_set:
+                    continue
+                unique_set.add(feature_str)
+                print(json.dumps(info, ensure_ascii=False), file=f)
+            except KeyError:
+                print("warning: ", mission_id, "text hash not found")
 
 
 if __name__ == '__main__':
@@ -29,13 +52,16 @@ if __name__ == '__main__':
         required=True,
         help="data dir",
     )
-    parser.add_argument("--lang", default="EN", type=str, help="language type")
+    parser.add_argument("--lang", default="CHS", type=str, help="language type")
     args = parser.parse_args()
 
-    os.makedirs("data", exist_ok=True)
+    output_dir = "data"
+    output_dir = os.path.join(output_dir, "misc", args.lang)
+    os.makedirs(output_dir, exist_ok=True)
 
     map_hash_to_text = load_text_hash_map(args.repo, args.lang)
 
-    get_books(args.repo, map_hash_to_text)
+    get_books(args.repo, map_hash_to_text, output_dir)
+    get_submissions(args.repo, map_hash_to_text, output_dir)
 
 
