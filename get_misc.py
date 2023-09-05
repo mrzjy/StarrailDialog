@@ -43,6 +43,28 @@ def get_submissions(repo, map_hash_to_text, output_dir):
                 print("warning: ", mission_id, "text hash not found")
 
 
+def get_items(repo, map_hash_to_text, output_dir):
+    with open(os.path.join(repo, "ExcelOutput/ItemConfig.json"), "r", encoding="utf-8") as f:
+        items = json.load(f)
+
+    unique_set = set()
+    with open(os.path.join(output_dir, "items.jsonl"), "w", encoding="utf-8") as f:
+        for idx, info in items.items():
+            try:
+                info["ItemName"] = text_normalization(map_hash_to_text[str(info["ItemName"]["Hash"])])
+                info["ItemDesc"] = text_normalization(map_hash_to_text[str(info["ItemDesc"]["Hash"])])
+                info["ItemBGDesc"] = text_normalization(map_hash_to_text[str(info["ItemBGDesc"]["Hash"])])
+                feature_str = info["ItemName"] + info["ItemDesc"] + info["ItemBGDesc"]
+                if feature_str in unique_set:
+                    continue
+                unique_set.add(feature_str)
+                print(json.dumps(info, ensure_ascii=False), file=f)
+                break
+            except KeyError:
+                print("warning: ", idx, "text hash not found")
+
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -63,5 +85,5 @@ if __name__ == '__main__':
 
     get_books(args.repo, map_hash_to_text, output_dir)
     get_submissions(args.repo, map_hash_to_text, output_dir)
-
+    get_items(args.repo, map_hash_to_text, output_dir)
 
