@@ -33,6 +33,8 @@ Note:
 - Extraction results are stored in the "data" folder. I won't provide full extraction results, please run the code yourself to get full extracted data.
 - Bugs or data problems possibly exist, feel free to PR (although the author is not very active...)
 - There are string variables (e.g., "{NICKNAME}" stands for trailblazer's name) in the corpus.
+- **Known Issues**:
+  - There is incorrect / non-existent text hash, hence some texts would be shown as "N/A" 
 
 #### Messages
 
@@ -44,105 +46,155 @@ The resulting extraction remains structured, waiting for you to be further proce
 python get_messages.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
 ~~~
 
-- Example
+- Example (a group chat)
 
 ~~~
 {
-   "ID":1000200,
-   "StartMessageItemIDList":[
-      100020001
-   ],
-   "IsPerformMessage":true,
-   "contacts":[
-      {
-         "ID":1013,
-         "Name":"Herta",
-         "IconPath":"SpriteOutput/AvatarRoundIcon/1013.png",
-         "SignatureText":"This account is disabled | Business Contact: Asta",
-         "ContactsType":1,
-         "ContactsCamp":"Herta Space Station"
-      }
-   ],
-   "messages":[
-      {
-         "ID":100020001,
-         "Sender":"NPC",
-         "ItemType":"Text",
-         "MainText":"Hey, {NICKNAME}, it's Herta. I need you for something good",
-         "OptionText":"N/A",
-         "NextItemIDList":[
-            100020002
-         ],
-         "SectionID":1000200
-      },
-      {
-         "ID":100020002,
-         "Sender":"NPC",
-         "ItemType":"Text",
-         "MainText":"Come to my office quickly! I'm waiting!",
-         "OptionText":"N/A",
-         "NextItemIDList":[
-            100020003
-         ],
-         "SectionID":1000200
-      },
-      {
-         "ID":100020003,
-         "Sender":"PlayerAuto",
-         "ItemType":"Text",
-         "MainText":"?",
-         "OptionText":"N/A",
-         "NextItemIDList":[
-            100020004,
-            100020005
-         ],
-         "SectionID":1000200
-      },
-      {
-         "ID":100020004,
-         "Sender":"Player",
-         "ItemType":"Text",
-         "MainText":"But you're right next to me",
-         "OptionText":"But you're right next to me",
-         "NextItemIDList":[
-            100020006
-         ],
-         "SectionID":1000200
-      },
-      {
-         "ID":100020005,
-         "Sender":"Player",
-         "ItemType":"Text",
-         "MainText":"Can't you just tell me",
-         "OptionText":"Can't you just tell me",
-         "NextItemIDList":[
-            100020006
-         ],
-         "SectionID":1000200
-      },
-      {
-         "ID":100020006,
-         "Sender":"NPC",
-         "ItemType":"Text",
-         "MainText":"[Automatic reply] Hi, I'm currently unavailable, and I won't be contacting you later",
-         "OptionText":"N/A",
-         "NextItemIDList":[
-            100020007
-         ],
-         "SectionID":1000200
-      },
-      {
-         "ID":100020007,
-         "Sender":"PlayerAuto",
-         "ItemType":"Text",
-         "MainText":"???",
-         "OptionText":"N/A",
-         "NextItemIDList":[
-            
-         ],
-         "SectionID":1000200
-      }
-   ]
+  "ID": 1216001,
+  "StartMessageItemIDList": [
+    121600101
+  ],
+  "IsPerformMessage": true,
+  "contacts": [
+    {
+      "ID": 78,
+      "Name": "金人巷复兴小组",
+      "IconPath": "SpriteOutput/AvatarRoundIcon/UI_Message_Group_Default.png",
+      "SignatureText": "N/A",
+      "ContactsType": 3,
+      "ContactsCamp": "其他"
+    }
+  ],
+  "messages": [
+    {
+      "ID": 121600101,
+      "ContactsID": 80,
+      "Sender": "霄翰",
+      "ItemType": "Text",
+      "MainText": "我很珍惜与各位相处的时光，为了避嫌，我会暂时离开这个群聊",
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600102
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600102,
+      "ContactsID": 80,
+      "Sender": "霄翰",
+      "ItemType": "Text",
+      "MainText": "那么，暂时再见了！",
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600103
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600103,
+      "Sender": "System",
+      "ItemType": "Text",
+      "MainText": "霄翰已退出金人巷复兴小组",
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600104
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600104,
+      "ContactsID": 1207,
+      "Sender": "驭空",
+      "ItemType": "Sticker",
+      "MainText": "N/A",
+      "ItemContentID": 103007,
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600105
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600105,
+      "ContactsID": 1207,
+      "Sender": "驭空",
+      "ItemType": "Text",
+      "MainText": "虽然你们在谈判席上立场不同，但是想做的事情是一样的",
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600106
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600106,
+      "ContactsID": 1207,
+      "Sender": "驭空",
+      "ItemType": "Text",
+      "MainText": "所以你们更应该好好辩论一番，才有机会从对方观点中补足自己",
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600107
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600107,
+      "ContactsID": 1207,
+      "Sender": "驭空",
+      "ItemType": "Text",
+      "MainText": "开放的视野比任何单一的观点更有价值",
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600108
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600108,
+      "ContactsID": 79,
+      "Sender": "明曦",
+      "ItemType": "Text",
+      "MainText": "谢谢驭空大人",
+      "OptionText": "N/A",
+      "NextItemIDList": [
+        121600109,
+        121600110,
+        121600111
+      ],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600109,
+      "Sender": "Player",
+      "ItemType": "Sticker",
+      "MainText": "N/A",
+      "ItemContentID": 20002,
+      "OptionText": "N/A",
+      "NextItemIDList": [],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600110,
+      "Sender": "Player",
+      "ItemType": "Sticker",
+      "MainText": "N/A",
+      "ItemContentID": 20004,
+      "OptionText": "N/A",
+      "NextItemIDList": [],
+      "SectionID": 1216001
+    },
+    {
+      "ID": 121600111,
+      "Sender": "Player",
+      "ItemType": "Sticker",
+      "MainText": "N/A",
+      "ItemContentID": 20006,
+      "OptionText": "N/A",
+      "NextItemIDList": [],
+      "SectionID": 1216001
+    }
+  ]
 }
 ~~~
 
