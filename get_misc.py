@@ -19,13 +19,17 @@ def get_misc(input_path: str, output_path: str, map_hash_to_text: dict, max_coun
                 for key, item in info.items():
                     if isinstance(item, dict):
                         if "Hash" in item:
-                            info[key] = text_normalization(map_hash_to_text[str(item["Hash"])])
+                            info[key] = text_normalization(
+                                map_hash_to_text[str(item["Hash"])]
+                            )
                             feature_str += info[key]
                         else:
                             # there may be nested dict
                             for subkey, subitem in item.items():
                                 if isinstance(subitem, dict) and "Hash" in subitem:
-                                    item[subkey] = text_normalization(map_hash_to_text[str(subitem["Hash"])])
+                                    item[subkey] = text_normalization(
+                                        map_hash_to_text[str(subitem["Hash"])]
+                                    )
                                     feature_str += item[subkey]
                 if feature_str in unique_set:
                     continue
@@ -38,7 +42,7 @@ def get_misc(input_path: str, output_path: str, map_hash_to_text: dict, max_coun
                 print("warning: ", idx, "text hash not found")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--repo",
@@ -68,5 +72,5 @@ if __name__ == '__main__':
             input_path=os.path.join(args.repo, "ExcelOutput", input_name),
             output_path=os.path.join(output_dir, output_name),
             map_hash_to_text=map_hash_to_text,
-            max_count=args.max_count
+            max_count=args.max_count,
         )

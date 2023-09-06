@@ -110,11 +110,20 @@ if __name__ == "__main__":
             info["contacts"] = [map_contact_to_info[str(c_id)] for c_id in contact_ids]
             try:
                 info["messages"] = map_section_to_messages[int(section_id)]
-                info["messages"] = list(filter(lambda m: not (m["Sender"] == "System" and m["MainText"] == "N/A"), info["messages"]))
+                info["messages"] = list(
+                    filter(
+                        lambda m: not (
+                            m["Sender"] == "System" and m["MainText"] == "N/A"
+                        ),
+                        info["messages"],
+                    )
+                )
 
                 for message in info["messages"]:
                     if "ContactsID" in message:
-                        message["Sender"] = map_contact_to_info[str(message["ContactsID"])]["Name"]
+                        message["Sender"] = map_contact_to_info[
+                            str(message["ContactsID"])
+                        ]["Name"]
                     elif message["Sender"] == "NPC":
                         message["Sender"] = info["contacts"][0]["Name"]
 
@@ -125,4 +134,10 @@ if __name__ == "__main__":
             count += 1
 
         for message in map_section_to_messages[_UNKNOWN_SECTION_ID]:
-            print(json.dumps({"ID": _UNKNOWN_SECTION_ID, "messages": [message]}, ensure_ascii=False), file=f)
+            print(
+                json.dumps(
+                    {"ID": _UNKNOWN_SECTION_ID, "messages": [message]},
+                    ensure_ascii=False,
+                ),
+                file=f,
+            )

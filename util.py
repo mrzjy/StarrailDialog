@@ -6,7 +6,8 @@ import pandas as pd
 
 df = pd.read_excel("data/html_entities.xlsx")
 map_html_codes_to_symbol = {
-    row["Entity Name"]: row["Symbol"] if not pd.isna(row["Symbol"]) else "" for _, row in df.iterrows()
+    row["Entity Name"]: row["Symbol"] if not pd.isna(row["Symbol"]) else ""
+    for _, row in df.iterrows()
 }
 
 
@@ -25,9 +26,9 @@ def text_normalization(content: str) -> str:
 def load_text_hash_map(repo: str, lang: str):
     # get text map
     with open(
-            os.path.join(repo, "TextMap", f"TextMap{lang}.json"),
-            "r",
-            encoding="utf-8",
+        os.path.join(repo, "TextMap", f"TextMap{lang}.json"),
+        "r",
+        encoding="utf-8",
     ) as f:
         map_hash_to_text = json.load(f)
     return map_hash_to_text
