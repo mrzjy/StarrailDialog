@@ -111,14 +111,18 @@ if __name__ == "__main__":
             try:
                 info["messages"] = map_section_to_messages[int(section_id)]
                 info["messages"] = list(filter(lambda m: not (m["Sender"] == "System" and m["MainText"] == "N/A"), info["messages"]))
+
+                for message in info["messages"]:
+                    if "ContactsID" in message:
+                        message["Sender"] = map_contact_to_info[str(message["ContactsID"])]["Name"]
+                    elif message["Sender"] == "NPC":
+                        message["Sender"] = info["contacts"][0]["Name"]
+
             except KeyError:
                 print("warning: ", section_id, "No messages found")
                 continue
             print(json.dumps(info, ensure_ascii=False), file=f)
             count += 1
-
-            if count > 5:
-                break
 
         for message in map_section_to_messages[_UNKNOWN_SECTION_ID]:
             print(json.dumps({"ID": _UNKNOWN_SECTION_ID, "messages": [message]}, ensure_ascii=False), file=f)
