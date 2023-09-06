@@ -4,7 +4,7 @@ This is a small personal project that extracts Honkai: Star Rail text corpus (in
 
 ### Disclaimer
 
-While this project is based on the legendary [Dim's StarRailData](https://github.com/Dimbreath/StarRailData) project, there are other more plausible data sources to achieve the same thing:
+While this project depends on the legendary [Dim's StarRailData](https://github.com/Dimbreath/StarRailData) project, there are other more plausible data sources to achieve the same thing:
 
 - For example, go to the relevant fandom statistics page: https://honkai-star-rail.fandom.com/wiki/Special:Statistics, and download directly the wiki data dump.
 
