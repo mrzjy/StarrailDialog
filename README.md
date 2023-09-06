@@ -25,7 +25,9 @@ What data can be extracted:
 - [ ] Dialogue
   - [x] Messages: Text communications that the Trailblazer receives from other Characters and NPCs. [\[Ref\]](https://honkai-star-rail.fandom.com/wiki/Messages)
   - [ ] Train visitor
+  - [ ] NPC talking
   - [ ] Mission
+  - [ ] etc
 - [ ] Misc
   - [x] Books
   - [x] Submissions
