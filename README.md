@@ -22,12 +22,16 @@ The logic is simple:
 
 What data can be extracted:
 
-- [x] Messages: Text communications that the Trailblazer receives from other Characters and NPCs. [\[Ref\]](https://honkai-star-rail.fandom.com/wiki/Messages)
+- [ ] Dialogue
+  - [x] Messages: Text communications that the Trailblazer receives from other Characters and NPCs. [\[Ref\]](https://honkai-star-rail.fandom.com/wiki/Messages)
+  - [ ] Train visitor
+  - [ ] Mission
 - [ ] Misc
   - [x] Books
   - [x] Submissions
   - [x] Items
   - [x] Maze buffs
+  - [ ] etc
 
 Note: 
 - Extraction results are stored in the "data" folder. I won't provide full extraction results, please run the code yourself to get full extracted data.
