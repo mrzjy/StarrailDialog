@@ -24,7 +24,7 @@ What data can be extracted:
 
 - [ ] Dialogue
   - [x] Messages: Text communications that the Trailblazer receives from other Characters and NPCs. [\[Ref\]](https://honkai-star-rail.fandom.com/wiki/Messages)
-  - [ ] Train visitor
+  - [x] Train visitor
   - [ ] NPC talking
   - [ ] Mission
   - [ ] etc
@@ -42,166 +42,25 @@ Note:
 - **Known Issues**:
   - There is incorrect / non-existent text hash, hence some texts would be shown as "N/A" 
 
-#### Messages
+#### Dialogues
 
 The resulting extraction remains structured, waiting for you to be further processed.
 
 - Code
 
 ~~~
-python get_messages.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
+python get_dialogues_messages.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
+python get_dialogues_train_visitor.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
 ~~~
 
-- Example (a group chat)
+- Example
 
 ~~~
-{
-  "ID": 1216001,
-  "StartMessageItemIDList": [
-    121600101
-  ],
-  "IsPerformMessage": true,
-  "contacts": [
-    {
-      "ID": 78,
-      "Name": "金人巷复兴小组",
-      "IconPath": "SpriteOutput/AvatarRoundIcon/UI_Message_Group_Default.png",
-      "SignatureText": "N/A",
-      "ContactsType": 3,
-      "ContactsCamp": "其他"
-    }
-  ],
-  "messages": [
-    {
-      "ID": 121600101,
-      "ContactsID": 80,
-      "Sender": "霄翰",
-      "ItemType": "Text",
-      "MainText": "我很珍惜与各位相处的时光，为了避嫌，我会暂时离开这个群聊",
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600102
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600102,
-      "ContactsID": 80,
-      "Sender": "霄翰",
-      "ItemType": "Text",
-      "MainText": "那么，暂时再见了！",
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600103
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600103,
-      "Sender": "System",
-      "ItemType": "Text",
-      "MainText": "霄翰已退出金人巷复兴小组",
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600104
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600104,
-      "ContactsID": 1207,
-      "Sender": "驭空",
-      "ItemType": "Sticker",
-      "MainText": "N/A",
-      "ItemContentID": 103007,
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600105
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600105,
-      "ContactsID": 1207,
-      "Sender": "驭空",
-      "ItemType": "Text",
-      "MainText": "虽然你们在谈判席上立场不同，但是想做的事情是一样的",
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600106
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600106,
-      "ContactsID": 1207,
-      "Sender": "驭空",
-      "ItemType": "Text",
-      "MainText": "所以你们更应该好好辩论一番，才有机会从对方观点中补足自己",
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600107
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600107,
-      "ContactsID": 1207,
-      "Sender": "驭空",
-      "ItemType": "Text",
-      "MainText": "开放的视野比任何单一的观点更有价值",
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600108
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600108,
-      "ContactsID": 79,
-      "Sender": "明曦",
-      "ItemType": "Text",
-      "MainText": "谢谢驭空大人",
-      "OptionText": "N/A",
-      "NextItemIDList": [
-        121600109,
-        121600110,
-        121600111
-      ],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600109,
-      "Sender": "Player",
-      "ItemType": "Sticker",
-      "MainText": "N/A",
-      "ItemContentID": 20002,
-      "OptionText": "N/A",
-      "NextItemIDList": [],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600110,
-      "Sender": "Player",
-      "ItemType": "Sticker",
-      "MainText": "N/A",
-      "ItemContentID": 20004,
-      "OptionText": "N/A",
-      "NextItemIDList": [],
-      "SectionID": 1216001
-    },
-    {
-      "ID": 121600111,
-      "Sender": "Player",
-      "ItemType": "Sticker",
-      "MainText": "N/A",
-      "ItemContentID": 20006,
-      "OptionText": "N/A",
-      "NextItemIDList": [],
-      "SectionID": 1216001
-    }
-  ]
-}
+# messages.jsonl
+{"ID": 1150300, "StartMessageItemIDList": [115030004], "IsPerformMessage": true, "contacts": [{"ID": 1004, "Name": "瓦尔特", "IconPath": "SpriteOutput/AvatarRoundIcon/1004.png", "SignatureText": "列车组各位，随时保持联系", "ContactsType": 1, "ContactsCamp": "星穹列车"}], "messages": [{"ID": 115030004, "Sender": "瓦尔特", "ItemType": "Text", "MainText": "初步的研究结果出来了。这种空间扭曲现象催生的实体被称作「拟造花萼」", "OptionText": "N/A", "NextItemIDList": [115030005], "SectionID": 1150300}, {"ID": 115030005, "Sender": "瓦尔特", "ItemType": "Text", "MainText": "这种实体中可能存有具备实用价值的现实资料。你们与其接触时要倍加小心，空间扭曲现象的本质就是无法解释的混沌，很难判断其中是否还蕴藏着某些危险要素", "OptionText": "N/A", "NextItemIDList": [], "SectionID": 1150300}]}
+
+# train_visitor.jsonl
+[{"type": "RPG.GameCore.PlayAndWaitSimpleTalk", "conversations": [{"TalkSentenceID": 500100102, "ProtectTime": 0.3, "role": "艾丝妲", "content": "如果在列车的这个位置布设空间望远镜，应该能观测到更短的波长……", "type": "PlayAndWaitSimpleTalk"}, {"TalkSentenceID": 500100103, "ProtectTime": 0.3, "role": "艾丝妲", "content": "嗯，方向感觉还不错。", "type": "PlayAndWaitSimpleTalk"}]}, {"type": "RPG.GameCore.PlayOptionTalk", "options": [{"TalkSentenceID": 500100104, "next_TalkSentenceID": "500100105", "role": "{NICKNAME}", "content": "有新论文选题？"}, {"TalkSentenceID": 500100107, "next_TalkSentenceID": "500100108", "role": "{NICKNAME}", "content": "刚刚在工作吗？"}]}, {"type": "RPG.GameCore.PlayAndWaitSimpleTalk", "conversations": [{"TalkSentenceID": 500100105, "ProtectTime": 0.3, "role": "艾丝妲", "content": "是呀。之前苦思冥想不得其法，一登上列车，想法就接二连三地冒出来，灵感真是折磨人的小妖怪。", "type": "PlayAndWaitSimpleTalk"}, {"TalkSentenceID": 500100106, "ProtectTime": 0.3, "role": "艾丝妲", "content": "这篇论文或许和列车有关…到时候还要请你们接受我的采访，多多提供一手资料。", "type": "PlayAndWaitSimpleTalk"}], "next_TalkSentenceID": 500100110}, {"type": "RPG.GameCore.PlayAndWaitSimpleTalk", "conversations": [{"TalkSentenceID": 500100108, "ProtectTime": 0.3, "role": "艾丝妲", "content": "当然不是啦。我又不是以工作名义来参观的，而是受到了{NICKNAME}的邀请，对吧？", "type": "PlayAndWaitSimpleTalk"}, {"TalkSentenceID": 500100109, "ProtectTime": 0.3, "role": "艾丝妲", "content": "所以在登上列车的那一刻，我就迫不及待调整至休假模式，全力睁大眼睛，寻找下一个论文选题。", "type": "PlayAndWaitSimpleTalk"}], "next_TalkSentenceID": 500100110}, {"type": "RPG.GameCore.PlayAndWaitSimpleTalk", "conversations": [{"TalkSentenceID": 500100110, "ProtectTime": 0.3, "role": "艾丝妲", "content": "——这些都不是重点啦。", "type": "PlayAndWaitSimpleTalk"}]}, {"type": "RPG.GameCore.PlayOptionTalk", "options": [{"TalkSentenceID": 500100111, "next_TalkSentenceID": "500100112", "role": "{NICKNAME}", "content": "今天就好好享受列车时光吧。"}]}, {"type": "RPG.GameCore.PlayAndWaitSimpleTalk", "conversations": [{"TalkSentenceID": 500100112, "ProtectTime": 0.3, "role": "艾丝妲", "content": "说得没错。", "type": "PlayAndWaitSimpleTalk"}]}, {"type": "RPG.GameCore.PlayAndWaitSimpleTalk", "conversations": [{"TalkSentenceID": 500100113, "ProtectTime": 0.3, "role": "艾丝妲", "content": "虽然之前也来过列车，不过有{NICKNAME}在的列车，我还是第一次来呢。", "type": "PlayAndWaitSimpleTalk"}, {"TalkSentenceID": 500100114, "ProtectTime": 0.3, "role": "艾丝妲", "content": "我很期待哦。", "type": "PlayAndWaitSimpleTalk"}]}, {"type": "RPG.GameCore.EndPerformance"}]
 ~~~
 
 #### Misc

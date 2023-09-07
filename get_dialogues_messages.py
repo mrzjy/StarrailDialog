@@ -98,11 +98,11 @@ if __name__ == "__main__":
     ) as f:
         section_info = json.load(f)
 
-    os.makedirs("data", exist_ok=True)
+    output_dir = os.path.join("data", "dialogues", args.lang)
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, "messages.jsonl")
     count = 0
-    with open(
-        os.path.join("data", f"message_{args.lang}.jsonl"), "w", encoding="utf-8"
-    ) as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         # normal sections
         for section_id, info in section_info.items():
             # add contacts information
