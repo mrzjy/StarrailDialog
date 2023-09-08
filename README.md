@@ -2,6 +2,8 @@
 
 This is a small personal project that extracts Honkai: Star Rail text corpus (including dialogue and miscellaneous items).
 
+本项目用于抽取崩坏：星穹铁道游戏的对话等文本语料
+
 ### Disclaimer
 
 While this project depends on the legendary [Dim's StarRailData](https://github.com/Dimbreath/StarRailData) project, there are other more plausible data sources to achieve the same thing:
