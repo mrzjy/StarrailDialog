@@ -2,7 +2,7 @@ import argparse
 import json
 import os
 
-from util import text_normalization, load_text_hash_map
+from util.common import text_normalization, load_text_hash_map
 
 _UNKNOWN_SECTION_ID = -99999999999999
 

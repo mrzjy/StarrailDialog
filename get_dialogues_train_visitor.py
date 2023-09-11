@@ -4,7 +4,7 @@ import json
 import os
 import re
 
-from util import text_normalization
+from util.common import text_normalization
 
 
 def get_speaker_content(sent_id):

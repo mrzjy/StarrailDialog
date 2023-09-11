@@ -2,9 +2,8 @@ import argparse
 import json
 import os
 import re
-import traceback
 
-from util import text_normalization, load_text_hash_map
+from util.common import text_normalization, load_text_hash_map
 
 
 def get_misc(
