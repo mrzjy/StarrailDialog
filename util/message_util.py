@@ -1,40 +1,26 @@
-import argparse
 import json
 import os
 
-from util.common import text_normalization, load_text_hash_map
+from util.common import text_normalization
+
 
 _UNKNOWN_SECTION_ID = -99999999999999
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--repo",
-        default="../StarRailData",
-        type=str,
-        required=True,
-        help="source data dir from Dim's relevant project",
-    )
-    parser.add_argument("--lang", default="CHS", type=str, help="language type")
-    args = parser.parse_args()
 
-    # get text map
-    map_hash_to_text = load_text_hash_map(args.repo, args.lang)
-    map_hash_to_text["371857150"] = "N/A"
-
+def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_count=-1):
     # get contacts camp
     with open(
-        os.path.join(args.repo, "ExcelOutput/MessageContactsCamp.json"),
-        "r",
-        encoding="utf-8",
+            os.path.join(repo, "ExcelOutput/MessageContactsCamp.json"),
+            "r",
+            encoding="utf-8",
     ) as f:
         contact_camp_info = json.load(f)
 
     # get contacts name and signature
     with open(
-        os.path.join(args.repo, "ExcelOutput/MessageContactsConfig.json"),
-        "r",
-        encoding="utf-8",
+            os.path.join(repo, "ExcelOutput/MessageContactsConfig.json"),
+            "r",
+            encoding="utf-8",
     ) as f:
         map_contact_to_info = json.load(f)
         for contact_id, info in map_contact_to_info.items():
@@ -56,9 +42,9 @@ if __name__ == "__main__":
 
     # get messages
     with open(
-        os.path.join(args.repo, "ExcelOutput/MessageItemConfig.json"),
-        "r",
-        encoding="utf-8",
+            os.path.join(repo, "ExcelOutput/MessageItemConfig.json"),
+            "r",
+            encoding="utf-8",
     ) as f:
         message_info = json.load(f)
         map_section_to_messages = {}
@@ -79,9 +65,9 @@ if __name__ == "__main__":
 
     # get message group
     with open(
-        os.path.join(args.repo, "ExcelOutput/MessageGroupConfig.json"),
-        "r",
-        encoding="utf-8",
+            os.path.join(repo, "ExcelOutput/MessageGroupConfig.json"),
+            "r",
+            encoding="utf-8",
     ) as f:
         map_session_id_to_contacts = {}
         for key, info in json.load(f).items():
@@ -92,13 +78,13 @@ if __name__ == "__main__":
                 map_session_id_to_contacts[section_id].append(contact_id)
 
     with open(
-        os.path.join(args.repo, "ExcelOutput/MessageSectionConfig.json"),
-        "r",
-        encoding="utf-8",
+            os.path.join(repo, "ExcelOutput/MessageSectionConfig.json"),
+            "r",
+            encoding="utf-8",
     ) as f:
         section_info = json.load(f)
 
-    output_dir = os.path.join("data", "dialogues", args.lang)
+    output_dir = os.path.join("data", "dialogues", lang)
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, "messages.jsonl")
     count = 0
@@ -113,7 +99,7 @@ if __name__ == "__main__":
                 info["messages"] = list(
                     filter(
                         lambda m: not (
-                            m["Sender"] == "System" and m["MainText"] == "N/A"
+                                m["Sender"] == "System" and m["MainText"] == "N/A"
                         ),
                         info["messages"],
                     )
@@ -132,6 +118,8 @@ if __name__ == "__main__":
                 continue
             print(json.dumps(info, ensure_ascii=False), file=f)
             count += 1
+            if count >= max_count > 0:
+                break
 
         for message in map_section_to_messages[_UNKNOWN_SECTION_ID]:
             print(
@@ -141,3 +129,5 @@ if __name__ == "__main__":
                 ),
                 file=f,
             )
+
+        print("Messages: Total num of dialogues:", count)

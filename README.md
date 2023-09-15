@@ -52,8 +52,7 @@ The resulting extraction remains structured, waiting for you to be further proce
 - Code
 
 ~~~
-python get_dialogues_messages.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
-python get_dialogues_train_visitor.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
+python get_dialogues.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
 ~~~
 
 - Example
