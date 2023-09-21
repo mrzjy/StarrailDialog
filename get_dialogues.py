@@ -2,6 +2,7 @@ import argparse
 
 from util.common import load_text_hash_map, load_sentence_map
 from util.message_util import get_message
+from util.story_util import get_story
 from util.train_visitor_util import get_train_visitor
 
 if __name__ == "__main__":
@@ -24,6 +25,13 @@ if __name__ == "__main__":
 
     get_message(args.repo, args.lang, map_hash_to_text, max_count=args.max_count)
     get_train_visitor(
+        args.repo,
+        args.lang,
+        map_hash_to_text,
+        map_sent_id_to_hash_info,
+        max_count=args.max_count,
+    )
+    get_story(
         args.repo,
         args.lang,
         map_hash_to_text,

@@ -87,7 +87,7 @@ def parse_on_sequence(info: dict, map_hash_to_text: dict, map_sent_id_to_hash_in
                         map_sent_id_to_hash_info,
                     )
                     option["next_TalkSentenceID"] = re.search(
-                        r"TalkSentence_(?P<sent_id>\d+)",
+                        r"(TalkSentence_)*(?P<sent_id>\d+)",
                         option["TriggerCustomString"],
                     )["sent_id"]
                     del option["TriggerCustomString"]
@@ -101,12 +101,18 @@ def parse_on_sequence(info: dict, map_hash_to_text: dict, map_sent_id_to_hash_in
                 "RPG.GameCore.WaitCustomString",
                 "RPG.GameCore.TriggerCustomString",
             }:
+                speaker_content = None
                 try:
                     sent_id = int(
                         re.search(
-                            r"TalkSentence_(?P<sent_id>\d+)",
+                            r"(TalkSentence_)*(?P<sent_id>\d+)",
                             element["CustomString"]["Value"],
                         )["sent_id"]
+                    )
+                    speaker_content = get_speaker_content(
+                        sent_id,
+                        map_hash_to_text,
+                        map_sent_id_to_hash_info,
                     )
                 except TypeError:
                     sent_id = element["CustomString"]["Value"]
@@ -114,6 +120,10 @@ def parse_on_sequence(info: dict, map_hash_to_text: dict, map_sent_id_to_hash_in
                     "type": element["$type"],
                     "TalkSentenceID": sent_id,
                 }
+                if speaker_content:
+                    sub_session["role"] = speaker_content["role"]
+                    sub_session["content"] = speaker_content["content"]
+
                 session.append(sub_session)
             elif element["$type"] == "RPG.GameCore.EndPerformance":
                 sub_session = {"type": "RPG.GameCore.EndPerformance"}
