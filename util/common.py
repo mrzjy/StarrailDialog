@@ -60,9 +60,9 @@ def get_speaker_content(
 
 def parse_on_sequence(info: dict, map_hash_to_text: dict, map_sent_id_to_hash_info: dict) -> list:
     sessions = []
-    for sequence in info["OnStartSequece"]:
+    for sequence in info.get("OnStartSequece", []):
         session = []
-        for element in sequence["TaskList"]:
+        for element in sequence.get("TaskList", []):
             if element["$type"] == "RPG.GameCore.PlayAndWaitSimpleTalk":
                 sub_session = {"type": element["$type"], "conversations": []}
                 for simple_talk in element["SimpleTalkList"]:
@@ -81,20 +81,23 @@ def parse_on_sequence(info: dict, map_hash_to_text: dict, map_sent_id_to_hash_in
             elif element["$type"] == "RPG.GameCore.PlayOptionTalk":
                 sub_session = {"type": element["$type"], "options": []}
                 for option in element["OptionList"]:
-                    speaker_content = get_speaker_content(
-                        option["TalkSentenceID"],
-                        map_hash_to_text,
-                        map_sent_id_to_hash_info,
-                    )
-                    option["next_TalkSentenceID"] = re.search(
-                        r"(TalkSentence_)*(?P<sent_id>\d+)",
-                        option["TriggerCustomString"],
-                    )["sent_id"]
-                    del option["TriggerCustomString"]
-                    del option["OptionIconType"]
-                    option["role"] = speaker_content["role"]
-                    option["content"] = speaker_content["content"]
-                    sub_session["options"].append(option)
+                    try:
+                        speaker_content = get_speaker_content(
+                            option["TalkSentenceID"],
+                            map_hash_to_text,
+                            map_sent_id_to_hash_info,
+                        )
+                        option["next_TalkSentenceID"] = re.search(
+                            r"(TalkSentence_)*(?P<sent_id>\d+)",
+                            option["TriggerCustomString"],
+                        )["sent_id"]
+                        del option["TriggerCustomString"]
+                        del option["OptionIconType"]
+                        option["role"] = speaker_content["role"]
+                        option["content"] = speaker_content["content"]
+                        sub_session["options"].append(option)
+                    except:
+                        pass
                 if sub_session["options"]:
                     session.append(sub_session)
             elif element["$type"] in {
@@ -116,6 +119,8 @@ def parse_on_sequence(info: dict, map_hash_to_text: dict, map_sent_id_to_hash_in
                     )
                 except TypeError:
                     sent_id = element["CustomString"]["Value"]
+                except KeyError:
+                    continue
                 sub_session = {
                     "type": element["$type"],
                     "TalkSentenceID": sent_id,
