@@ -4,6 +4,59 @@ This is a small personal project that extracts Honkai: Star Rail text corpus (in
 
 本项目用于抽取崩坏：星穹铁道游戏的对话等文本语料
 
+## Example
+
+~~~
+# A message with Trailblazor
+{
+  "contacts": [
+    {
+      "Name": "黑塔",
+      "SignatureText": "此号停用 | 商务联系：艾丝妲",
+      "ContactsCamp": "空间站「黑塔」"
+    }
+  ],
+  "messages": [
+    {
+      "Sender": "黑塔",
+      "MainText": "嘿，{NICKNAME}，我是黑塔，有好事找你"
+    },
+    {
+      "Sender": "黑塔",
+      "MainText": "速来我的办公室！等你！"
+    },
+    {
+      "Sender": "PlayerAuto",
+      "MainText": "？"
+    },
+    {
+      "Sender": "Player",
+      "MainText": "可你就在我旁边啊",
+        100020006
+      ],
+    },
+    {
+      "Sender": "Player",
+      "MainText": "你直接说不就行了",
+    },
+    {
+      "Sender": "黑塔",
+      "MainText": "[自动回复]您好，我现在有事不在，一会也不会和您联系",
+        100020007
+      ],
+    },
+    {
+      "Sender": "PlayerAuto",
+      "MainText": "？ ？",
+    },
+    {
+      "Sender": "System",
+      "MainText": "{NICKNAME}",
+    }
+  ]
+}
+~~~
+
 ### Disclaimer
 
 While this project depends on the legendary [Dim's StarRailData](https://github.com/Dimbreath/StarRailData) project, there are other more plausible data sources to achieve the same thing:
