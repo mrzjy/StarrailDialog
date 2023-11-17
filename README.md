@@ -4,6 +4,11 @@ This is a small personal project that extracts Honkai: Star Rail text corpus (in
 
 本项目用于抽取崩坏：星穹铁道游戏的对话等文本语料
 
+Other projects you might be interested in:
+- [GenshinDialog](https://github.com/mrzjy/GenshinDialog): Same but for Genshin Impact 
+- [hoyo_public_wiki_parser](https://github.com/mrzjy/hoyo_public_wiki_parser): Parse Hoyoverse public wiki data
+
+
 ## Example
 
 ~~~
