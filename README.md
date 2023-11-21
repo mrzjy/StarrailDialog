@@ -7,7 +7,7 @@ This is a small personal project that extracts Honkai: Star Rail text corpus (in
 Other projects you might be interested in:
 - [GenshinDialog](https://github.com/mrzjy/GenshinDialog): Same but for Genshin Impact 
 - [hoyo_public_wiki_parser](https://github.com/mrzjy/hoyo_public_wiki_parser): Parse Hoyoverse public wiki data
-
+  - Recommended: Typically this is where you could get more complete dialogues throughout various quests, together with quest descriptions
 
 ## Example
 
@@ -120,6 +120,12 @@ python get_dialogues.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
 # story
 [{"type": "RPG.GameCore.PlayOptionTalk", "options": [{"TalkSentenceID": 100020113, "next_TalkSentenceID": "100020113", "role": "{NICKNAME}", "content": "这…是…哪里？"}, {"TalkSentenceID": 100020115, "next_TalkSentenceID": "100020115", "role": "{NICKNAME}", "content": "卡芙…卡？"}, {"TalkSentenceID": 100020118, "next_TalkSentenceID": "100020118", "role": "{NICKNAME}", "content": "…你是…谁？"}]}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020113, "role": "{NICKNAME}", "content": "这…是…哪里？", "next_TalkSentenceID": 100020121}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020115, "role": "{NICKNAME}", "content": "卡芙…卡？", "next_TalkSentenceID": 100020121}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020118, "role": "{NICKNAME}", "content": "…你是…谁？", "next_TalkSentenceID": 100020121}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020121, "role": "卡芙卡", "content": "听我说：你的脑袋里现在一片混沌。你不清楚自己是谁，为什么在这儿，接下来要做什么；你觉得我很熟悉，却不清楚该不该信任我——"}, {"type": "RPG.GameCore.PlayOptionTalk", "options": [{"TalkSentenceID": 100020126, "next_TalkSentenceID": "100020126", "role": "{NICKNAME}", "content": "喜欢…大概。"}, {"TalkSentenceID": 100020130, "next_TalkSentenceID": "100020130", "role": "{NICKNAME}", "content": "我不要…"}, {"TalkSentenceID": 100020133, "next_TalkSentenceID": "100020133", "role": "{NICKNAME}", "content": "你要去哪…"}]}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020126, "role": "{NICKNAME}", "content": "喜欢…大概。", "next_TalkSentenceID": 100020136}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020130, "role": "{NICKNAME}", "content": "我不要…", "next_TalkSentenceID": 100020136}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020133, "role": "{NICKNAME}", "content": "你要去哪…", "next_TalkSentenceID": 100020136}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020136, "role": "银狼", "content": "还要说多久？按照剧本，{RUBY_B#「开拓」的旅行者}星穹列车{RUBY_E#}的人就快到了，我们不该跟他们照上面。"}, {"type": "RPG.GameCore.PlayOptionTalk", "options": [{"TalkSentenceID": 100020139, "next_TalkSentenceID": "100020139", "role": "{NICKNAME}", "content": "不，不要…"}, {"TalkSentenceID": 100020140, "next_TalkSentenceID": "100020139", "role": "{NICKNAME}", "content": "别了…"}, {"TalkSentenceID": 100020141, "next_TalkSentenceID": "100020139", "role": "{NICKNAME}", "content": "卡芙…卡…"}]}, {"type": "RPG.GameCore.WaitCustomString", "TalkSentenceID": 100020139, "role": "{NICKNAME}", "content": "不，不要…"}, {"type": "RPG.GameCore.EndPerformance"}]
 ~~~
+
+#### Known Issues
+
+1. Some dialogues are incomplete, the relation between different sessions are unknown. (Better check out [hoyo_public_wiki_parser](https://github.com/mrzjy/hoyo_public_wiki_parser) to get more complete dialogues within a quest) 
+
+
 
 #### Misc
 
