@@ -37,8 +37,6 @@ Other projects you might be interested in:
     {
       "Sender": "Player",
       "MainText": "可你就在我旁边啊",
-        100020006
-      ],
     },
     {
       "Sender": "Player",
@@ -47,8 +45,6 @@ Other projects you might be interested in:
     {
       "Sender": "黑塔",
       "MainText": "[自动回复]您好，我现在有事不在，一会也不会和您联系",
-        100020007
-      ],
     },
     {
       "Sender": "PlayerAuto",
