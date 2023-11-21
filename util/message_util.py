@@ -55,12 +55,15 @@ def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_coun
                 section_id = _UNKNOWN_SECTION_ID
             if section_id not in map_section_to_messages:
                 map_section_to_messages[section_id] = []
-            item["MainText"] = text_normalization(
-                map_hash_to_text[str(item["MainText"]["Hash"])]
-            )
-            item["OptionText"] = text_normalization(
-                map_hash_to_text[str(item["OptionText"]["Hash"])]
-            )
+            try:
+                item["MainText"] = text_normalization(
+                    map_hash_to_text[str(item["MainText"]["Hash"])]
+                )
+                item["OptionText"] = text_normalization(
+                    map_hash_to_text[str(item["OptionText"]["Hash"])]
+                )
+            except KeyError:
+                continue
             map_section_to_messages[section_id].append(item)
 
     # get message group
