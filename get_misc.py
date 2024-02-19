@@ -58,22 +58,24 @@ def get_avatar(repo: str, map_hash_to_text: dict, output_path: str, max_count=-1
             if avatar_id not in map_avatar_to_voiceline:
                 map_avatar_to_voiceline[avatar_id] = []
             for sub_info in info.values():
-                map_avatar_to_voiceline[avatar_id].append(
-                    {
-                        "title": text_normalization(
-                            map_hash_to_text[str(sub_info["VoiceTitle"]["Hash"])]
-                        ),
-                        "Voice_M": text_normalization(
-                            map_hash_to_text[str(sub_info["Voice_M"]["Hash"])]
-                        ),
-                        "Voice_F": text_normalization(
-                            map_hash_to_text[str(sub_info["Voice_F"]["Hash"])]
-                        ),
-                        "UnlockDesc": text_normalization(
-                            map_hash_to_text[str(sub_info["UnlockDesc"]["Hash"])]
-                        ),
-                    }
-                )
+                voice_line = {
+                    "title": text_normalization(
+                        map_hash_to_text[str(sub_info["VoiceTitle"]["Hash"])]
+                    ),
+                    "Voice_M": text_normalization(
+                        map_hash_to_text[str(sub_info["Voice_M"]["Hash"])]
+                    ),
+                    "Voice_F": text_normalization(
+                        map_hash_to_text[str(sub_info["Voice_F"]["Hash"])]
+                    ),
+                    "UnlockDesc": text_normalization(
+                        map_hash_to_text[str(sub_info["UnlockDesc"]["Hash"])]
+                    ),
+                }
+                for key in list(voice_line.keys()):
+                    if "N/A" in voice_line[key]:
+                        del voice_line[key]
+                map_avatar_to_voiceline[avatar_id].append(voice_line)
 
     with open(os.path.join(repo, "StoryAtlas.json"), "r", encoding="utf-8") as f:
         map_avatar_to_story = {}
@@ -178,6 +180,7 @@ def get_avatar(repo: str, map_hash_to_text: dict, output_path: str, max_count=-1
 
     count = 0
     with open(output_path, "w", encoding="utf-8") as f:
+        # json.dump(map_avatar_to_info, f, ensure_ascii=False, indent=4)
         for i, (_, info) in enumerate(map_avatar_to_info.items()):
             avatar_name = info["basic"]["Name"]
             print(json.dumps({avatar_name: info}, ensure_ascii=False), file=f)

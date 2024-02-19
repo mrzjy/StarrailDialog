@@ -1,1 +1,308 @@
 {"BookSeriesID": 1, "BookSeries": "随花束附赠的花语手册", "BookSeriesComments": "收录了贝洛伯格常用花语，人情世故浓缩在手册之中。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 2, "BookSeries": "咖啡师的手账残页", "BookSeriesComments": "从某本秘密手账上脱落下来的手写活页。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 3, "BookSeries": "《矿山员工安全手册》", "BookSeriesComments": "磨损严重的安全手册。下层区矿工人手一本。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 4, "BookSeries": "关于煦日节庆典相关事宜的安排", "BookSeriesComments": "不知何年的贝洛伯格传统节日庆典安排…但至少不是今年的。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 5, "BookSeries": "矿业机械订单列表", "BookSeriesComments": "一张矿业机械调度订单列表。见证了下层区尚且繁荣时货物与资金的流向。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 6, "BookSeries": "《「淬火工坊」全新启程！》", "BookSeriesComments": "「淬火工坊」的巨幅广告，张贴的位置就像纸上那些极具冲击力的大字一样惹眼。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 7, "BookSeries": "天桥下的告示", "BookSeriesComments": "一系列告示，似乎是铆钉镇居民在撤离时匆匆张贴在小镇入口的。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 8, "BookSeries": "《秘传：爆辣蓬蓬菇》", "BookSeriesComments": "铆钉镇餐厅名菜的保姆级教程。内容似乎是最高机密，但还是被你看见了。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 9, "BookSeries": "大矿区排班表", "BookSeriesComments": "矿工们每次开工时会在表上写明工作轮次和内容，但似乎已经被当作讨论版了。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 10, "BookSeries": "《矿工每周报》", "BookSeriesComments": "工头自发筹办的小报，旨让矿工们了解矿区内的生产生活要闻。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 11, "BookSeries": "《星尘玫瑰》场刊", "BookSeriesComments": "话剧《星尘玫瑰》的场刊，在购票后随票免费发放。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 12, "BookSeries": "《公民亚历珊德拉》场刊", "BookSeriesComments": "音乐剧《公民亚历珊德拉》的场刊，在购票后随票免费发放。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 13, "BookSeries": "地火组织的宣传单", "BookSeriesComments": "手写的宣传单，纸质粗糙，却胜在真挚。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 14, "BookSeries": "矿队的通牒", "BookSeriesComments": "一封措辞略有些严厉的通牒信，另附涂鸦。从中似乎可以窥见矿区争端从何而来。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 15, "BookSeries": "大矿区生活守则", "BookSeriesComments": "一张告示。一板一眼地写着矿石镇居民可以做和禁止做的事。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 16, "BookSeries": "「矿灯」巴列维的告顾客信", "BookSeriesComments": "一封巴列维停止公开鉴定古代遗物的公告。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 17, "BookSeries": "冰风暴成因", "BookSeriesComments": "一篇对话气候专家的采访，采访中讨论了冰风暴的成因，还涉及到了其它科学小知识。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 18, "BookSeries": "春神和战争之神雅利洛", "BookSeriesComments": "一则北方涅咯莎地区的传统神话故事，及民俗学家对该神话的解读分析。", "BookSeriesNum": 2, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 19, "BookSeries": "给新手检修员的留言", "BookSeriesComments": "一则贝洛伯格暖气工人之间的留言，与节前暖气管道的安全检修有关。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 20, "BookSeries": "煦日节前的日常生活采访", "BookSeriesComments": "一则刊登在《水晶日报•周末版》上的生活调查，煦日节的种种风俗从中可窥见一斑。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 21, "BookSeries": "潮流品牌「郊外」", "BookSeriesComments": "一篇潮流品牌「郊外」的杂志广告。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 22, "BookSeries": "矿毒清鼻用吸入剂说明书", "BookSeriesComments": "记录了某种处方的纸片，可以使受矿工职业病困扰的下层区居民暂时免受痛苦。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 23, "BookSeries": "某个民间科学家的日记", "BookSeriesComments": "质量堪忧的散落纸页，纸片的主人似乎自称是一名科学家。", "BookSeriesNum": 4, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 24, "BookSeries": "拼接而成的信件", "BookSeriesComments": "通过拼拼凑凑还原的信件，也许不该还原……", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 25, "BookSeries": "冷吃夕红鱼", "BookSeriesComments": "一家餐厅传单上的美食故事，堪称行为艺术的体现。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 26, "BookSeries": "穿过风雪的旅人", "BookSeriesComments": "一篇贝洛伯格教材中的课文，内容是一首幸存者迁徙的叙事诗。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 27, "BookSeries": "鲑鱼面包", "BookSeriesComments": "旅行杂志的专栏，向读者分享了一种郊外的全新生活方式。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 28, "BookSeries": "清唱剧首演盛况", "BookSeriesComments": "历史上清唱剧盛况的剪报，被小心地保存了起来。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 29, "BookSeries": "黑面包汽水冰山", "BookSeriesComments": "一则生活方式杂志内页广告，向读者推荐了某种甜点的做法。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 30, "BookSeries": "倍润矿脂", "BookSeriesComments": "随处可见的护肤品广告，贝洛伯格人民最熟悉的朋友。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 31, "BookSeries": "关于梦境分析", "BookSeriesComments": "精神科医生随手写下的笔记。梦到底几分可信？", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 32, "BookSeries": "关于清唱剧排练时间变更通知", "BookSeriesComments": "一则排练变更的通知，用于确保合唱团成员时间安排协调一致。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 33, "BookSeries": "贝洛伯格红肠", "BookSeriesComments": "国民美食的传单广告，还附有红肠的种种做法。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 34, "BookSeries": "小朋友的信", "BookSeriesComments": "小朋友遗落的信件，看起来是写给另外一个小朋友的。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 35, "BookSeries": "《地底百科：植物和菌类》", "BookSeriesComments": "下层区植物生态的研究报告，书内提及绝大多数植物不可食、不好吃；少数条目还附有烹饪指南。", "BookSeriesNum": 2, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 36, "BookSeries": "宝石蜥肉串食谱", "BookSeriesComments": "一系列往来信件，内容极其丰富，甚至还包含一份食谱。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 37, "BookSeries": "贝洛伯格七大不思议", "BookSeriesComments": "假如你读到这篇文字，以上不思议都将出现在你身边……", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 38, "BookSeries": "「黑塔」资产定损清单", "BookSeriesComments": "由「黑塔•万有应物科」拟定的资产定损清单，记载了数千项货损，其赔偿金额堪称天文数字，由星际和平公司一力承担。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 39, "BookSeries": "银河公义奖彰", "BookSeriesComments": "由「黑塔•银河法政科」签发的荣誉奖状，旨在表彰「局部正义」的伙伴。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 40, "BookSeries": "临时调任执行启示", "BookSeriesComments": "由「黑塔•万有应物科」负责人、奇物再收容小队队长「温命得」颁布的临时调任启示。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 41, "BookSeries": "猎彗人来信", "BookSeriesComments": "猎彗人何塞•拉萨罗的天外来信，上面写满了垃圾话。", "BookSeriesNum": 3, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 42, "BookSeries": "猎彗人宝藏", "BookSeriesComments": "猎彗人何塞•拉萨罗的秘藏，一场事先张扬的恶作剧。", "BookSeriesNum": 4, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 43, "BookSeries": "卡利白秘方", "BookSeriesComments": "软饮界的无冕之王，哥们儿情谊的粗粝切片，携带着致命一蛰的幽默。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 44, "BookSeries": "星域界种指要：呜呜伯", "BookSeriesComments": "这本指要在表面上与一般的大部头书籍别无二致，但仔细观察，就会发现它的周身环绕着一层淡淡的星环，如同一个隐蔽的咒语。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 45, "BookSeries": "辛-41云乡讯音", "BookSeriesComments": "云乡讯音乃不同星球传回的天外回音，承载着科员故土与亲眷的讯息。由「黑塔•银河法政科」统一审阅并分发至对应科员。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 46, "BookSeries": "星神", "BookSeriesComments": "列车智库中的「星神」条目，记述了漫步深空星海之中的神秘存在。", "BookSeriesNum": 14, "BookSeriesWorld": 1}
+{"BookSeriesID": 47, "BookSeries": "派系", "BookSeriesComments": "列车智库中的「派系」条目，记述了充盈星海之间的种种派系势力。", "BookSeriesNum": 22, "BookSeriesWorld": 1}
+{"BookSeriesID": 48, "BookSeries": "科员荣仓终的日记", "BookSeriesComments": "记录着科员荣仓终不平之声与偏激心绪的纸页。落寞，蒙尘，无人惦念。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 49, "BookSeries": "呜呜伯行为考", "BookSeriesComments": "关于界种科藏品、灵质生物「呜呜伯」的行为习性研究报告。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 50, "BookSeries": "《黑塔研究图鉴•第七卷•交通》残页", "BookSeriesComments": "该卷图鉴收录了站内所有交通型奇物。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 51, "BookSeries": "【科员档案】古恩", "BookSeriesComments": "「黑塔」依照银河通行的隐私安全法收集、储存和使用科员信息。未经授权，相关人员不得向第三方披露任何档案。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 52, "BookSeries": "《冒险鼹鼠队：隐形的宝藏》", "BookSeriesComments": "贝洛伯格著名的儿童冒险文学系列最新作", "BookSeriesNum": 7, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 53, "BookSeries": "【科员档案】何塞", "BookSeriesComments": "「黑塔」依照银河通行的隐私安全法收集、储存和使用科员信息。未经授权，相关人员不得向第三方披露任何档案。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 54, "BookSeries": "【科员档案】荣仓终", "BookSeriesComments": "「黑塔」依照银河通行的隐私安全法收集、储存和使用科员信息。未经授权，相关人员不得向第三方披露任何档案。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 55, "BookSeries": "再见黑塔", "BookSeriesComments": "科员洛奇•马丁内斯的诗作。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 56, "BookSeries": "宓堂传语", "BookSeriesComments": "自称「宓堂空境解语人」递交的密信，似乎意在劝诫水魈的同谋者。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 57, "BookSeries": "黑塔的手稿", "BookSeriesComments": "本书由「星际和平公司」出资赞助，系「天才俱乐部」#83席黑塔所撰写之手稿，阐述关于宇宙、星神、派系及其它一切：「这就是我要写的东西：孤独的神明和盲目的信众。」", "BookSeriesNum": 4, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 61, "BookSeries": "黑塔情诗", "BookSeriesComments": "科员洛奇•马丁内斯意图寄予心上人的诗作。", "BookSeriesNum": 3, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 62, "BookSeries": "讯号转译录：琥珀2157纪40月-43月", "BookSeriesComments": "讯号转译录：琥珀2157纪40月-43月", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 63, "BookSeries": "讯号转译录：琥珀2157纪44月-47月", "BookSeriesComments": "讯号转译录：琥珀2157纪44月-47月", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 64, "BookSeries": "讯号转译录：琥珀2157纪48月-51月", "BookSeriesComments": "讯号转译录：琥珀2157纪48月-51月", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 65, "BookSeries": "雪国冒险奇谭", "BookSeriesComments": "一套在民间热度极高的幻想小说，似乎已被贝洛伯格查禁……", "BookSeriesNum": 9, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 66, "BookSeries": "某个包裹上的附信", "BookSeriesComments": "一种曾经可能毁灭下层区的神秘生物的兴亡史。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 67, "BookSeries": "关于宠物「小麻」的日记", "BookSeriesComments": "一份宠物饲养日记…可是「虚拟宠物」能算宠物吗？", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 68, "BookSeries": "《地底百科：动物》", "BookSeriesComments": "一份年代久远的下层区动物生态的研究报告，部分动物已经不存于世了。", "BookSeriesNum": 2, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 69, "BookSeries": "「矿灯」古代遗物鉴定录", "BookSeriesComments": "一份巴列维留下的古代遗物鉴定记录。", "BookSeriesNum": 2, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 70, "BookSeries": "矿工病诊断书", "BookSeriesComments": "一份很有参考价值的矿工症诊断书。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 71, "BookSeries": "梅登矿道要塌了", "BookSeriesComments": "一首下层区人人都知道的儿歌，好事者考察了儿歌的出处。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 72, "BookSeries": "科鲁泽的信件", "BookSeriesComments": "科鲁泽随身携带的信件，好像未能寄回的家书。", "BookSeriesNum": 1, "BookSeriesWorld": 2}
+{"BookSeriesID": 73, "BookSeries": "祖辈的告诫", "BookSeriesComments": "巴拉金先祖留给后人的告诫，简短有力。", "BookSeriesNum": 1, "BookSeriesWorld": 2}
+{"BookSeriesID": 74, "BookSeries": "布洛妮娅的信", "BookSeriesComments": "布洛妮娅的信", "BookSeriesNum": 1, "BookSeriesWorld": 2}
+{"BookSeriesID": 75, "BookSeries": "瓦赫的信", "BookSeriesComments": "娜塔莎的哥哥瓦赫在被流放至雪原之后秘密寄出的信件。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 76, "BookSeries": "「风雪免疫」实验记录", "BookSeriesComments": "娜塔莎的哥哥瓦赫留下的笔记，记录了他为了研制名为「风雪免疫」的药物而进行的一系列相关实验。", "BookSeriesNum": 2, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 77, "BookSeries": "希拉的人物剧本", "BookSeriesComments": "由古恩•科诺列夫所创作的希拉人物剧本，其动机笼罩在迷雾中。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 78, "BookSeries": "告罪书", "BookSeriesComments": "古恩•科诺列夫因在空间站内执行某种神秘实验而留下的陈情告罪书。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 79, "BookSeries": "数据记录：乔安", "BookSeriesComments": "从终端机获取的科员乔安的设备浏览记录，应遵循阅后即焚的隐私保密原则。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 80, "BookSeries": "数据记录：梅厄", "BookSeriesComments": "从终端机获取的科员梅厄的设备浏览记录，应遵循阅后即焚的隐私保密原则。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 81, "BookSeries": "数据记录：克里斯", "BookSeriesComments": "从终端机获取的科员克里斯的设备浏览记录，应遵循阅后即焚的隐私保密原则。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 82, "BookSeries": "艾丝妲的家书", "BookSeriesComments": "艾丝妲与家中长辈的书信往来，不知为何呈现出一场罗生门迷局。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 83, "BookSeries": "艾丝妲的购物清单", "BookSeriesComments": "艾丝妲的寰宇采购清单，收件人出乎意料地写着阿兰的名字。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 84, "BookSeries": "艾丝妲与「商业精英」的往来邮件副本", "BookSeriesComments": "艾丝妲与发明「宇宙高能元域空间」的「商业精英」的邮件往来副本。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 85, "BookSeries": "写给闯入者的便条", "BookSeriesComments": "未卜先知的站长写给闯入者的警示便条，不惩反奖，意在鼓励所有好奇的冒险，嘉奖一切知识的奔流。", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 86, "BookSeries": "一间好商铺，世代摇钱树", "BookSeriesComments": "废弃的房地产广告传单，现在已经是投资上的负面教材。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 87, "BookSeries": "矿业机械采购单据", "BookSeriesComments": "遗落在铆钉镇商业联合会旧址的交易凭证，使人难免怀念铆钉镇过去蓬勃的光景。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 89, "BookSeries": "生活物资需求征集", "BookSeriesComments": "一份生活物资需求征集单。看得出大矿区的矿头对于矿民的需求基本还算宽容。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 90, "BookSeries": "支离破碎的日记", "BookSeriesComments": "避难硐室中发现的日记残页。从中得以窥见重大事件如何扭转小人物的命运。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 91, "BookSeries": "在广场干道增设路障的通知", "BookSeriesComments": "铆钉镇沦陷前夕张贴的公告，意在警示居民注意避险。就结果而言，这一举措之成效微乎其微。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 92, "BookSeries": "油腻腻的食评册", "BookSeriesComments": "歌德大饭店主厨与客人之间交流新菜的留言手册，封皮上布满了可疑的油污。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 93, "BookSeries": "光荣的铁卫将为我们抵御外敌！", "BookSeriesComments": "可可利亚颁布上下层区封锁令时的动员令。对此，下层区的某些居民发出了不满的声音。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 94, "BookSeries": "逐梦者的信件", "BookSeriesComments": "一封未能送抵的信件。将脆弱的信封轻轻开启，你甚至能够听到梦碎的声音。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 95, "BookSeries": "「新•淬火工坊」开张！", "BookSeriesComments": "「新•淬火工坊」的宣传广告。你似乎在别处见过类似的名字。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 96, "BookSeries": "小朋友（已黑化）的观察日记", "BookSeriesComments": "一篇看起来略显幼稚的观察日记。日记的主人似乎受到了严重的精神创伤。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 97, "BookSeries": "军用机械例行检修记录表", "BookSeriesComments": "银鬃铁卫后勤部门定期贴出来的军械保养告示，可惜并没有多少人会去关注。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 98, "BookSeries": "说唱大战投票通道开启", "BookSeriesComments": "流浪者营地中某项赛事的宣传画。你有充分的理由怀疑这幅广告出自一名说唱歌手之手。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 99, "BookSeries": "会咬人，禁止靠近！", "BookSeriesComments": "稚嫩的笔迹写成的便条。大概是某个机器人机生轨迹的缩影。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 100, "BookSeries": "拳手招募单", "BookSeriesComments": "下层区到处派发的搏击俱乐部招聘传单，上面的宣传词写得比说唱还动听。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 101, "BookSeries": "《贝洛伯格的音乐家》", "BookSeriesComments": "装订成册且充满童心的童话故事。但由于某些原因，原本完整的故事现已散佚。", "BookSeriesNum": 7, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 102, "BookSeries": "未能寄出的家书", "BookSeriesComments": "脆弱的信纸上记录了贝洛伯格过去的严寒与温馨，这是过去的余温与某种见证。", "BookSeriesNum": 2, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 103, "BookSeries": "歌德宾馆下午茶餐单", "BookSeriesComments": "记录着歌德宾馆知名下午茶餐点的餐单，上面残留着贝洛伯格往昔的丰足与快乐。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 104, "BookSeries": "集会所的留言板", "BookSeriesComments": "「地火」组织的留言板，记录了平日里发生的各种闲杂琐事。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 105, "BookSeries": "致「炉心」基地全体的一封信", "BookSeriesComments": "一封来自过去的信，现由某位沉默且威严的机械生命体小心翼翼地保管着。之于其所有者，似乎蕴含着非凡的意义。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 106, "BookSeries": "边缘通路的旧报纸", "BookSeriesComments": "几篇过去的简报，以碎片化的形式记录了贝洛伯格多年之前的样貌。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 107, "BookSeries": "《歌德宾馆的夜与雾》", "BookSeriesComments": "某位以写爱情故事闻名的编剧，以歌德宾馆的历史为原型写下的小说，可惜现存的只有残本。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 108, "BookSeries": "《雪国往事》场刊", "BookSeriesComments": "歌剧《雪国往事》的场刊，在购票后随票免费发放。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 109, "BookSeries": "《蕾莎与特鲁太太》场刊", "BookSeriesComments": "音乐剧《蕾莎与特鲁太太》的场刊，在购票后随票免费发放。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 110, "BookSeries": "《路边野餐》场刊", "BookSeriesComments": "话剧《路边野餐》的场刊，在购票后随票免费发放。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 111, "BookSeries": "《白衣之后》场刊", "BookSeriesComments": "音乐剧《白衣之后》的场刊，在购票后随票免费发放。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 112, "BookSeries": "记长乐天夜游", "BookSeriesComments": "刊载在文学评议板块的杂文一篇，仙舟上忧思感怀之人总是有一些长篇大论。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 113, "BookSeries": "评至味盛苑 九和宴", "BookSeriesComments": "有关至味盛苑九和宴的食评，虽说文字详尽到感同身受，但是这字里行间难免有些刁钻。", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 114, "BookSeries": "星槎安全检查指南", "BookSeriesComments": "由天舶司印发，星槎进出流云渡时所需安全检查的官方指南。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 115, "BookSeries": "星槎进出港报告管理办法", "BookSeriesComments": "由天舶司印发，星槎进出港提交申请报告的规章制度。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 116, "BookSeries": "这星芋啵啵也太难喝了吧", "BookSeriesComments": "从电子屏上截取下来的论坛记录，讨论了星槎海的茶饮口味问题。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 117, "BookSeries": "回到未来", "BookSeriesComments": "仙舟星槎品牌「飞梭」推出的新款民用星槎广告。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 118, "BookSeries": "轻雨浥尘", "BookSeriesComments": "星槎海著名旅店「浥尘客栈」的广告。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 119, "BookSeries": "化外民也能学会的地道仙舟俗语100句", "BookSeriesComments": "由天舶司推出，方便化外民了解仙舟文化的小册子。", "BookSeriesNum": 3, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 120, "BookSeries": "《「克拉拉保护协会」成员火热募集中》", "BookSeriesComments": "字里行间充斥着异样热情的招募通告。只要加入该协会，你便能加入到保护克拉拉的行列当中。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 121, "BookSeries": "娜塔莎的名单", "BookSeriesComments": "对于工作繁重的地底居民来说，照顾孩子是生活中另一项难以忍受的苦役。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 122, "BookSeries": "密密麻麻的日程", "BookSeriesComments": "看过这份日程表的人，将会明白布洛妮娅为何叹气不断。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 123, "BookSeries": "《铁卫禁区近况汇总及相关意见》", "BookSeriesComments": "以严肃语气写成的信件报告，汇总了银鬃铁卫全军上下近期的状况。似乎出自现任铁卫情报官之手。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 124, "BookSeries": "水晶日报的送审样稿", "BookSeriesComments": "寒潮初至时被送往银鬃铁卫高层审核的新闻样稿。记载了初代大守护者阿丽萨•兰德持炎枪作战的英姿", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 125, "BookSeries": "《鼹鼠记》贝洛伯格古诗集", "BookSeriesComments": "贝洛伯格的原住民写下的诗集，原诗作者的名字已经无从考证。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 126, "BookSeries": "贝洛伯格学院期中测试卷", "BookSeriesComments": "一张不及格的测试卷，试卷主人似乎是一位叫卢森的孩子。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 127, "BookSeries": "防骗指南修订版", "BookSeriesComments": "深蓝骗局受害者协会编撰的防骗指南", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 128, "BookSeries": "征友启事", "BookSeriesComments": "华劳斯委托他人张贴满城市大街小巷的征友海报，大部分都被人撕下来了", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 129, "BookSeries": "银鬃铁卫宣誓词", "BookSeriesComments": "铁卫禁区中随处可见的银鬃铁卫宣誓词。可能和大部分公司的「企业价值观」类似，并没有太多人在意。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 130, "BookSeries": "艾丝妲的仪器采购合同", "BookSeriesComments": "艾丝妲自掏腰包给空间站购买仪器的采购合同，不知为何竟落入了有心人之手。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 131, "BookSeries": "「家用寻物仪」售后回复函", "BookSeriesComments": "「家用寻物仪」的制作商发给顾客艾丝妲的回复函，不知为何竟落入了有心人之手。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 132, "BookSeries": "星域界种指要：约特伍德体", "BookSeriesComments": "界种科的研究档案，记载着着星际间罕见的无机生物约特伍德体的资料。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 133, "BookSeries": "【录音带】愚人戏：祸祖砺兵寻旧恨，愚人挥剑斩金身", "BookSeriesComments": "一卷录音带转译而成的曲词本，这是部分老年科员爱听的愚人戏。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 134, "BookSeries": "维修科室的不传之秘", "BookSeriesComments": "维修科室的手写便条，记录着科室的「不传之秘」，在空间站遇袭后失传。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 135, "BookSeries": "空间站体检事项公告", "BookSeriesComments": "张贴在医疗舱内的科员体检事项公告。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 136, "BookSeries": "空间站介绍手册", "BookSeriesComments": "供访客浏览的空间站介绍手册。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 137, "BookSeries": "黑塔藏品间使用守则", "BookSeriesComments": "黑塔女士为藏品间列下的使用守则——虽然这个藏品间仅可供黑塔女士一人使用。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 138, "BookSeries": "研究报告：约特伍德水晶体", "BookSeriesComments": "一位科员针对约特伍德水晶开展地跨界实验，但由于疏忽导致实验样本出错，最后成为一份无效的厕纸报告。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 139, "BookSeries": "不完整的录音自动转译文档", "BookSeriesComments": "两位研究奇物的科员，在反物质军团入侵前夕留下实验录音，该文档系录音自动转译而成。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 140, "BookSeries": "障碍判别终端的攻击记录", "BookSeriesComments": "反物质军团入侵后，黑塔空间站的障碍判别终端记录了报错记录。在入侵结束后，科员亚伯拉罕在这里偷偷留下了自己的备注。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 141, "BookSeries": "科员们的留言便条", "BookSeriesComments": "空间站科员之间相互留言的便条，记录着空间站工作与生活中的细碎片段。", "BookSeriesNum": 6, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 142, "BookSeries": "空间站员工餐厅反馈记录表", "BookSeriesComments": "黑塔空间站餐厅的反馈表，里面记录了各位科员对于餐厅产品提出的意见以及期待，同时包含餐厅智能回复机器人给到的反馈。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 143, "BookSeries": "某位界种科科员的周记残页", "BookSeriesComments": "一位界种科科员的工作周记，这是被用力扯下的一页。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 144, "BookSeries": "科员间的聊天记录", "BookSeriesComments": "记录着空间站遇袭前两位科员闲聊的记录，现已被防卫科列入调查清单。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 145, "BookSeries": "约特伍德体是石头", "BookSeriesComments": "某位地概科科员针对约特伍德体尚未发送成功的顶级锐评，设备屏幕上跳动着「您已被拉黑」的温馨提醒。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 146, "BookSeries": "帕斯卡的日志", "BookSeriesComments": "似乎是某台自动机兵遗留的日志备忘，其中的日期已经模糊不清。", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 147, "BookSeries": "爆炸头协会纲领", "BookSeriesComments": "空间站的爆炸头协会纲领，包含强烈的主观意志", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 148, "BookSeries": "波少百科12.0更新内容", "BookSeriesComments": "卡波特铁粉组定期更新的内容，主要是卡波特的日常行为记录", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 149, "BookSeries": "阿兰工作记录", "BookSeriesComments": "记录了阿兰近两周工作内容的笔记。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 150, "BookSeries": "教育部的难题", "BookSeriesComments": "无", "BookSeriesNum": 8, "BookSeriesWorld": 2}
+{"BookSeriesID": 151, "BookSeries": "裂界来电", "BookSeriesComments": "由边缘通路的一通裂界来电引发的故事。", "BookSeriesNum": 2, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 152, "BookSeries": "希莉儿", "BookSeriesComments": "你在裂界中与名为希莉儿的神秘女孩邂逅。她的故事等待着被揭开…", "BookSeriesNum": 3, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 153, "BookSeries": "不适合人偶的职业", "BookSeriesComments": "以十王司判官为主角的黑色小说，根据都市传说改编。连载于网络，点击量一般。", "BookSeriesNum": 3, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 154, "BookSeries": "守护星槎海", "BookSeriesComments": "以地衡司日常工作为主题的纪实视频文案，记录了一桩棘手的民事纠纷。", "BookSeriesNum": 3, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 155, "BookSeries": "仙舟风物志", "BookSeriesComments": "一位博识学会成员对仙舟上下的考察笔记。", "BookSeriesNum": 7, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 156, "BookSeries": "云骑斗步离", "BookSeriesComments": "狐人大鼓的唱本。讲述了一位云骑军将军与步离人的血战，在仙舟脍炙人口。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 157, "BookSeries": "来自远古的回声•仙舟传统曲艺大观", "BookSeriesComments": "西衍先生为化外民游客撰写的仙舟曲艺小科普。", "BookSeriesNum": 7, "BookSeriesWorld": 3}
+{"BookSeriesID": 158, "BookSeries": "冥想遗忘疗法：健康长生，直到永恒！", "BookSeriesComments": "自称是能够避免魔阴身的医疗广告。疗法继承人不惜做出违背祖宗的决定。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 159, "BookSeries": "万类宗汇", "BookSeriesComments": "仙舟的动物笔记。包括生物的外形，习性，相关的药材、食谱与俗谚。", "BookSeriesNum": 4, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 160, "BookSeries": "《帝弓迹躔歌》注疏", "BookSeriesComments": "以仙舟历史为主题的歌行体叙事诗，描绘了历史英雄「帝弓」波澜壮阔的一生。", "BookSeriesNum": 5, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 161, "BookSeries": "梅姐的笔记", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 165, "BookSeries": "梁沐的留言之一", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 166, "BookSeries": "梁沐的留言之二", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 167, "BookSeries": "梁沐的信件", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 168, "BookSeries": "渔公案", "BookSeriesComments": "仙舟上有名的侦探小说系列。讲述被人灌下毒药后蜕生成幼儿的神探渔公破解各种迷案的故事。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 169, "BookSeries": "药王秘传•证物集册", "BookSeriesComments": "从药王秘传党羽搜来的各种证物。", "BookSeriesNum": 9, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 170, "BookSeries": "将军的日记", "BookSeriesComments": "似乎是神策府将军的亲笔日记。内容不多，断断续续。且不知为何，内容全都与一猫有关。", "BookSeriesNum": 3, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 171, "BookSeries": "阿德勒的怪谈研究报告", "BookSeriesComments": "应物科科员阿德勒撰写的研究报告，记录着空间站中的各类怪谈。", "BookSeriesNum": 3, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 172, "BookSeries": "贝洛伯格大事年表•寒潮之前", "BookSeriesComments": "以克里珀堡官方口吻记载的、贝洛伯格寒潮未至时的部分历史。或许会对你有所帮助。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 173, "BookSeries": "通缉令纪念册", "BookSeriesComments": "你已经集齐了贝洛伯格中与你相关的全部通缉令。虽然身价不算高，但恭喜你！", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 174, "BookSeries": "奇物管理日志", "BookSeriesComments": "由艾丝妲管理并撰写的奇物档案，在空间站的终端上公开，供所有科员查询使用。", "BookSeriesNum": 3, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 175, "BookSeries": "《蝶影》杂志特刊：托蝶幻境千年十佳", "BookSeriesComments": "《蝶影》是仙舟联盟最具权威性的托蝶幻境专门刊物。这是一期特刊，盘点了在托蝶幻境一千年的发展史中，最为优秀的十部作品。", "BookSeriesNum": 10, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 176, "BookSeries": "被罗刹撕下的侦探小说扉页", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 177, "BookSeries": "罗浮天舶司商会名录", "BookSeriesComments": "天舶司的商会目录，记录着罗浮商会的运营范围。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 178, "BookSeries": "形虎拳馆 招生广告", "BookSeriesComments": "一页拳馆广告。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 179, "BookSeries": "提倡合理合法爱护动物，严查违法违规「放生」动物", "BookSeriesComments": "地衡司执事所张贴的布告。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 180, "BookSeries": "《仙舟通鉴》拾遗", "BookSeriesComments": "仙舟联盟原始史料汇总，是联盟历史进程的重要注脚。", "BookSeriesNum": 4, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 181, "BookSeries": "神秘的咨询信", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 182, "BookSeries": "感激的复信", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 183, "BookSeries": "哀伤的复信", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 184, "BookSeries": "云吟谱", "BookSeriesComments": "持明族的民间歌谣集。由一位箜篌师采集编纂。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 185, "BookSeries": "绿芙蓉的密信", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 186, "BookSeries": "魔阴身考", "BookSeriesComments": "一份丹鼎司的论文，作者考证了仙舟人「魔阴身」的来源和研究。", "BookSeriesNum": 2, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 187, "BookSeries": "来自「玉阙」仙舟的监察报告", "BookSeriesComments": "一份玉阙仙舟发来的情报。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 188, "BookSeries": "大敌名录", "BookSeriesComments": "神策府内的案牍卷宗，记录了与仙舟为敌的各路势力。", "BookSeriesNum": 4, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 189, "BookSeries": "大毫的日记", "BookSeriesComments": "长乐天地衡司公廨执事长大毫的日记。其中记录了他漫长的人生。", "BookSeriesNum": 2, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 190, "BookSeries": "帝弓垂迹录", "BookSeriesComments": "太卜司将「巡猎」降世临凡的观测记录整理成册，就成了这本《帝弓垂迹录》。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 191, "BookSeries": "一份卜测报告", "BookSeriesComments": "曾有卜者预见到罗浮即将遭遇灾难，可惜这份报告并未受到重视。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 192, "BookSeries": "《易镜窥奥》", "BookSeriesComments": "符玄在工作之余写下的草稿，谈论卜筮之道，算法和种种占卜相关的逸事。", "BookSeriesNum": 4, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 193, "BookSeries": "黄钟系统共鸣记录", "BookSeriesComments": "联盟的各艘仙舟之间会通过黄钟系统相互报告现状。这是「罗浮」仙舟星历8098年的黄钟系统共鸣记录。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 194, "BookSeries": "明阅的占卜记录", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 195, "BookSeries": "静斋的占卜记录", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 196, "BookSeries": "上国梦华录（残篇）", "BookSeriesComments": "一位历史学家对神降时代的追忆。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 197, "BookSeries": "给陌生人的回信", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 198, "BookSeries": "柘落丙字三十六号码头货运星槎时刻表", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 199, "BookSeries": "来自持明的诉折", "BookSeriesComments": "罗浮持明族龙师上呈六御的请愿书。", "BookSeriesNum": 2, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 200, "BookSeries": "云骑军巡索纪要", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 201, "BookSeries": "丢失星槎名录", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 202, "BookSeries": "药王秘传的指令", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 203, "BookSeries": "三百年前断更的武侠小说", "BookSeriesComments": "仙舟上曾经名噪一时的武侠小说。断更许久，令人唏嘘。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 204, "BookSeries": "捡到的卜签", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 205, "BookSeries": "星槎通航记录", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 206, "BookSeries": "罗浮仙舟情报手记", "BookSeriesComments": "丹恒整理的有关仙舟「罗浮」的情报。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 207, "BookSeries": "丹枢的日记", "BookSeriesComments": "丹鼎司丹士长丹枢的日记。其中记录了这位盲眼丹士与命运的抗争。", "BookSeriesNum": 2, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 208, "BookSeries": "仙舟医典述略", "BookSeriesComments": "丹鼎司内供医士们查询医学著作的综述。", "BookSeriesNum": 4, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 209, "BookSeries": "要药分剂", "BookSeriesComments": "丹鼎司药方汇编之大成。", "BookSeriesNum": 2, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 210, "BookSeries": "「药王秘传」追源及斥谬", "BookSeriesComments": "十王司判官编写的小册子，帮助公职人员认清「药王秘传」的本质。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 211, "BookSeries": "飞行士的交换日记", "BookSeriesComments": "搭档飞行士之间的交换日志，跨越了漫长的时间。", "BookSeriesNum": 2, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 212, "BookSeries": "观颐台卷宗调用记录", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 213, "BookSeries": "丹鼎司邸报栏的一页", "BookSeriesComments": "丹鼎司邸报栏评议版，丹鼎司医士们聊天吹牛的地方。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 214, "BookSeries": "经典病例选编", "BookSeriesComments": "丹鼎司编撰的病例选，以便检索查阅之用。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 215, "BookSeries": "未被销毁的信笺", "BookSeriesComments": "没来及销毁的往来信笺，似乎谈论着禁忌的丹方奇术。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 216, "BookSeries": "未被销毁的笔记", "BookSeriesComments": "没来及销毁的笔记，似乎正在打探罗浮十王司相关的情报。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 217, "BookSeries": "报告：一份罕见的植株样本", "BookSeriesComments": "陶德•雷奥登的调查报告，详细记录着有关魔阴身士兵的测试数据。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 218, "BookSeries": "桑博的留言", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 219, "BookSeries": "钟珊的来信", "BookSeriesComments": "「放生帮导师」钟珊留下的信件。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 220, "BookSeries": "希露瓦的简历", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 221, "BookSeries": "娜塔莎的简历", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 222, "BookSeries": "虎克的简历", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 223, "BookSeries": "杰帕德的简历", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 224, "BookSeries": "希儿的简历", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 225, "BookSeries": "饮月大逆判牍", "BookSeriesComments": "对「饮月之乱」主犯的一道判决。这道判决对仙舟的未来产生了巨大的影响。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 226, "BookSeries": "寒食、岁阳与冤案：禁火节民俗考", "BookSeriesComments": "一位博识学会成员对仙舟「禁火节」之民俗学来源的研究报告。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 227, "BookSeries": "龙师溸湍为龙尊造像记", "BookSeriesComments": "古老龙尊造像下铭刻的造像记，讲述了一位龙师筹备建造雕像的始末。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 228, "BookSeries": "工正淙衍刻石", "BookSeriesComments": "一块满怀憾恨的刻石，记录着一位工匠的留言。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 229, "BookSeries": "护珠人通信碑", "BookSeriesComments": "持明族护珠人专门负责看护古海中的持明卵，这是他们留下的石碑。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 230, "BookSeries": "贝尼尼学士的破碎笔记", "BookSeriesComments": "一份博识学会学士留下的破碎笔记。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 231, "BookSeries": "持明时调《六御审饮月》残篇钩沉", "BookSeriesComments": "一部失传已久的持明时调唱本。它曾因内容的煽动性而被禁绝了很多年，但如今已经再也掀不起任何风浪了。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 232, "BookSeries": "某持明少年的笔记", "BookSeriesComments": "一位持明族学童遗落在鳞渊境的笔记。上面记录着他对持明族历史的怀想。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 233, "BookSeries": "龙师会议记残碑", "BookSeriesComments": "一场发生在历史转折点中的龙师会议，被铭刻在一块饱经风霜的残碑上。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 234, "BookSeries": "罗浮古纹拓片考察", "BookSeriesComments": "一位学士在洞天各处留下的纹样拓片，似乎是在描绘仙舟历史中的事件…", "BookSeriesNum": 8, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 235, "BookSeries": "致克利欧学士的一封信", "BookSeriesComments": "一位博识学会成员写给弟子的信件。他希望弟子收到信后，可以立刻来罗浮见他。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 236, "BookSeries": "建木玄根观测记录碑", "BookSeriesComments": "罗浮持明受命不懈守望古老的建木残迹，观察其再生之势。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 237, "BookSeries": "涯海星槎胜览 • 朱明仙舟", "BookSeriesComments": "仙舟著名飞行士白珩留下的游记著作集中的一篇，记录着她出使朱明仙舟的始末。", "BookSeriesNum": 3, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 238, "BookSeries": "摘星社•金人巷旅游攻略", "BookSeriesComments": "长乐天旅行社制作的旅游手册。可以不看，但不可以没有。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 239, "BookSeries": "「尚滋味」收到的满分好评留言", "BookSeriesComments": "化外民向之丘在金人巷「尚滋味」留下的满分好评。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 240, "BookSeries": "真志摩的劳动雇佣合同", "BookSeriesComments": "真志摩与世宏签下的劳动雇佣合同。很显然，世宏没有仔细阅读。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 241, "BookSeries": "黑市商人调查笔记", "BookSeriesComments": "暗访记者彻查金人巷黑市商人的笔记。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 242, "BookSeries": "桂乃芬的美食探店台本", "BookSeriesComments": "仙舟网红桂乃芬制作的探店视频台本。用心程度可见一斑。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 243, "BookSeries": "仙舟联盟畅游手册", "BookSeriesComments": "摘星社发行的旅行手册，介绍了仙舟联盟各地的旅游胜地。", "BookSeriesNum": 2, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 244, "BookSeries": "符玄致叶尔孤白学士的信", "BookSeriesComments": "在一次成功的合作之后，作为感谢，符玄去信为博识学会提供了大衍穷观阵的技术文牍。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 245, "BookSeries": "仙舟联盟信仰危机小史", "BookSeriesComments": "一篇通识性质的历史科普短文。介绍了仙舟人在反抗「丰饶」以降、「巡猎」登神以前的信仰生活。", "BookSeriesNum": 4, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 246, "BookSeries": "祭晓虹二公文", "BookSeriesComments": "在对抗药王秘传的战斗中，一对狐人兄弟英勇牺牲。他们的战友用传统的方式为两位烈士写下祭文，以寄哀思。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 247, "BookSeries": "海滩漂流瓶", "BookSeriesComments": "无", "BookSeriesNum": 5, "BookSeriesWorld": 3}
+{"BookSeriesID": 248, "BookSeries": "阿往阿来相声精选", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 249, "BookSeries": "西衍先生评书精选", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 250, "BookSeries": "公司员工借条", "BookSeriesComments": "公司员工向当地人借款的打印凭据，被作为正面范例张贴。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 251, "BookSeries": "外派员工行动准则：雅利洛-Ⅵ版", "BookSeriesComments": "托帕向员工提出的行动准则，以维持风险投资部的对外形象。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 252, "BookSeries": "造物引擎部件修缮方案", "BookSeriesComments": "某研究员对造物引擎部件提出的设计方案，内容夸张且可行性甚微。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 253, "BookSeries": "造物引擎修缮计划详述", "BookSeriesComments": "对造物引擎修缮计划的较正规阐述，展望了非常遥远的未来。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 254, "BookSeries": "工地安全海报", "BookSeriesComments": "呼吁工人注意施工安全的宣传海报。", "BookSeriesNum": 1, "BookSeriesWorld": 2}
+{"BookSeriesID": 255, "BookSeries": "《矿工每周报第226期》", "BookSeriesComments": "具有官方性质的一期工人报。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 256, "BookSeries": "虎克的以太战线大秘籍", "BookSeriesComments": "某神秘高手玩家的游戏心得，据说只要将它参透，任何人都能登上冠军之巅。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 257, "BookSeries": "造物引擎项目策划书", "BookSeriesComments": "一份草拟完成的策划书，足以让造物引擎脱胎换骨。", "BookSeriesNum": 1, "BookSeriesWorld": 2}
+{"BookSeriesID": 258, "BookSeries": "炉灰小报：第一期", "BookSeriesComments": "由匿名民间作者撰写的地下刊物，对社会问题发表了较为尖锐的评论。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 259, "BookSeries": "公司出行安全手册", "BookSeriesComments": "星际和平公司为旗下穿梭装置制定的安全须知，制定了许多严苛的规则。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 260, "BookSeries": "《机甲乱斗：热血闪耀》", "BookSeriesComments": "在贝洛伯格突然兴起的幻想小说，描述了未来人用巨大机器与怪兽作战的故事。反映了因造物引擎产生的巨物崇拜风潮。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 261, "BookSeries": "螺丝咕姆的留言", "BookSeriesComments": "螺丝星贵族给下层区守护者的一份留言，探讨了雅利洛-Ⅵ上机器人发展为「硅基生命」的可能性。", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
+{"BookSeriesID": 262, "BookSeries": "来历不明的信笺", "BookSeriesComments": "闻君返乡，倒悬古海，力挽危澜，想必已重拾旧忆。依久旷之约，吾等当重游故地，历数往事，共浮一白。", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 263, "BookSeries": "罗刹留下的信笺", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 264, "BookSeries": "记忆梳理", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 1}
+{"BookSeriesID": 265, "BookSeries": "岁阳祓除通识手册", "BookSeriesComments": "十王司内部分发的除魔应急手册，是为紧急应对岁阳失控而准备的。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 266, "BookSeries": "绥园夜谭散页", "BookSeriesComments": "散落在绥园的志怪小说残页，似乎和此地幻境颇有渊源。", "BookSeriesNum": 2, "BookSeriesWorld": 3}
+{"BookSeriesID": 267, "BookSeries": "从石砖上拓下的信", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 268, "BookSeries": "罗浮若木灾异始末考摘要", "BookSeriesComments": "十王司判官针对建木危机之调查记录的摘要。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 269, "BookSeries": "狐人大鼓《六昧叹》", "BookSeriesComments": "一首狐人大鼓的唱本。讲述了狐人古老的传说。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 270, "BookSeries": "厌作人间语", "BookSeriesComments": "西衍先生创作的志怪小说集。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 271, "BookSeries": "步离人民歌集", "BookSeriesComments": "一本步离人民歌选集，由善宏学宫文化人类学科整理注疏。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 272, "BookSeries": "长乐天公廨报总务厅案呈", "BookSeriesComments": "长乐天公廨对近期若干工作的汇报。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 273, "BookSeries": "药王妖寇罪证稽录", "BookSeriesComments": "一份向十王司汇报的有关于丹鼎司档案库整理的发现报告 。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 274, "BookSeries": "不赦十恶详解", "BookSeriesComments": "一份关于仙舟最严重的罪行「十恶逆」的法律解释。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 275, "BookSeries": "十王司重犯名录", "BookSeriesComments": "一份十王司重犯的名单，记录了犯有「不赦十恶」的几名罪人。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 276, "BookSeries": "十王司讯问造翼者咥力笔录", "BookSeriesComments": "十王司对一位造翼者小头领的讯问记录。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 277, "BookSeries": "《渔公案周年特别篇》读后感", "BookSeriesComments": "一篇《渔公案周年特别篇》的读后感。措辞克制，情绪真挚。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 278, "BookSeries": "云骑军移送十王司重犯名单", "BookSeriesComments": "云骑军移交给十王司的重犯名单，所载者皆身犯不赦十恶。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 279, "BookSeries": "来自地衡司司衡的信函", "BookSeriesComments": "地衡司司衡寄给景元将军的一封信。", "BookSeriesNum": 1, "BookSeriesWorld": 3, "IsShowInBookshelf": true}
+{"BookSeriesID": 280, "BookSeries": "十四种幻觉的面庞", "BookSeriesComments": "一篇来自不知名纯美骑士的告罪书。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 281, "BookSeries": "《合巹记》唱本", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 3}
+{"BookSeriesID": 282, "BookSeries": "天才俱乐部：科研成果考", "BookSeriesComments": "一位不愿意透露姓名的人士留下的手稿，旨在探讨天才俱乐部诸位成员的成果（未遂）。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 283, "BookSeries": "阮•梅的日记残页", "BookSeriesComments": "从阮•梅的日记上撕下的残页，只言片语间记录着她近期的研究课题。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 284, "BookSeries": "阮•梅的实验日志", "BookSeriesComments": "不完整的实验日志，这是阮•梅在研究过程中留下的珍贵记录。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 285, "BookSeries": "界种科的植物培育计划表", "BookSeriesComments": "记录着界种科培养目标的计划表。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 286, "BookSeries": "警告！！！", "BookSeriesComments": "界种科张贴在植物培养间的警示贴。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 287, "BookSeries": "十全点心食谱摘录", "BookSeriesComments": "写有阮•梅亲笔批注的食谱集，字迹和她本人一样娟秀。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 288, "BookSeries": "情感的本质——一项生理学分析", "BookSeriesComments": "一位不知名人士的论文，探讨了情感在生理层面的产生原因与表达机制。", "BookSeriesNum": 1, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 289, "BookSeries": "真理医生的留言便条", "BookSeriesComments": "真理医生在「拜访」空间站时留下的反馈意见，字字彰显着他的真挚。", "BookSeriesNum": 4, "BookSeriesWorld": 1, "IsShowInBookshelf": true}
+{"BookSeriesID": 290, "BookSeries": "欢迎来到■■■■", "BookSeriesComments": "一盘诡异的录音带，一个恐怖的噩梦。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 291, "BookSeries": "乔凡娜的工作日记", "BookSeriesComments": "酒店入梦护理师总管乔凡娜的工作日记，记录着一次酒店客人的入梦事故。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 292, "BookSeries": "路易斯的艺术评论", "BookSeriesComments": "路易斯撰写的一系列期刊，是他为画家夏洛蒂的作品专门创作的艺术评论。", "BookSeriesNum": 3, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 293, "BookSeries": "梦境童谣•七口之家", "BookSeriesComments": "一篇在匹诺康尼流传的古怪童谣。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 294, "BookSeries": "《镍币影院特别放映：惊魂之夜》", "BookSeriesComments": "镍币影院「惊魂之夜特别放送活动」的传单。上面印刷了相关注意事项与当夜展映片单。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 295, "BookSeries": "苏乐达小百科", "BookSeriesComments": "苏乐达工厂印制的广告册，为消费者介绍了各种口味的苏乐达饮料。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 296, "BookSeries": "金槌府邸安全规范", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 4}
+{"BookSeriesID": 297, "BookSeries": "案情简述•其一", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 4}
+{"BookSeriesID": 298, "BookSeries": "案情简述•其二", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 4}
+{"BookSeriesID": 299, "BookSeries": "桑博的谏言？", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 4}
+{"BookSeriesID": 300, "BookSeries": "「钟表匠」的谏言", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 4}
+{"BookSeriesID": 301, "BookSeries": "《小小哈努行动》", "BookSeriesComments": "克劳克影业发行的限量版卡通故事书，讲述了「哈努兄弟」被变小后拯救美梦小镇的故事…书中似乎还夹杂了一些奇怪的对白。", "BookSeriesNum": 5, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 302, "BookSeries": "声乐之星的绝唱•「纯美之歌」音乐会", "BookSeriesComments": "歌星拉洛丝在匹诺康尼街头发放的精致传单，介绍了一场关于「纯美之星」的演唱会。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 303, "BookSeries": "《银幕冲击波》第280期", "BookSeriesComments": "匹诺康尼的著名影评杂志，由影评家夏布罗担任主笔，观点激进、言辞犀利。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 304, "BookSeries": "《忆域迷因受害者名单片段》", "BookSeriesComments": "一份忆域迷因受害者名单的手抄片段，是家族机密封存的机密之一。线人对内容的加密已被解明。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 305, "BookSeries": "《忆域洣洇辤嗐鍺洺啴爿葮（加密版）》", "BookSeriesComments": "一份忆域迷因受害者名单的手抄片段，是家族机密封存的机密之一。提供信息的线人对内容做了加密处理。", "BookSeriesNum": 1, "BookSeriesWorld": 4}
+{"BookSeriesID": 306, "BookSeries": "《布鲁斯之夜》宣传单", "BookSeriesComments": "一张「蓝调的时刻」的宣传单，文字间充满了浪漫的氛围。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 307, "BookSeries": "银河之星的故事", "BookSeriesComments": "经历「银河之星」莱斯利•迪恩的故事时收集到的线索。", "BookSeriesNum": 2, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 308, "BookSeries": "关于■号扭蛋机的研究", "BookSeriesComments": "由匹诺康尼逐梦客撰写的实验记录，据说是想揭开娱乐设施的隐藏秘密。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 309, "BookSeries": "新闻稿数则", "BookSeriesComments": "匹诺康尼电视台的数则新闻稿，记录了梦中的三两趣事。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 310, "BookSeries": "《梦境旅游指南-交通篇》", "BookSeriesComments": "一篇旅游指南，专门为游客介绍了匹诺康尼梦境中的几种常用交通方式。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 311, "BookSeries": "《梦境旅游指南-购物篇》", "BookSeriesComments": "旅游指南续作之一，专门为游客介绍几处带有匹诺康尼特色的购物地点。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 312, "BookSeries": "《梦境旅游指南-游玩篇》", "BookSeriesComments": "旅游指南续作之二，专门为游客介绍几处带有匹诺康尼特色的玩乐体验。", "BookSeriesNum": 1, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 313, "BookSeries": "盛会之星收藏卡", "BookSeriesComments": "由艾弗法出版集团旗下梦星娱乐™设计发行的一套匹诺康尼限量版明星卡牌，版权所有，翻版必究。", "BookSeriesNum": 4, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
+{"BookSeriesID": 314, "BookSeries": "柯柯娜的便条", "BookSeriesComments": "无", "BookSeriesNum": 1, "BookSeriesWorld": 4}
+{"BookSeriesID": 315, "BookSeries": "服务生汉密尔顿的笔记", "BookSeriesComments": "与辛格勒一同调查梦境酒店的异变时发现的一系列零碎的线索，出自一位名叫汉密尔顿的酒店服务生之手。", "BookSeriesNum": 4, "BookSeriesWorld": 4, "IsShowInBookshelf": true}
