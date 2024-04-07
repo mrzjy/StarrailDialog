@@ -1,5 +1,6 @@
 import json
 import os
+import traceback
 
 from util.common import text_normalization
 
@@ -24,21 +25,24 @@ def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_coun
     ) as f:
         map_contact_to_info = json.load(f)
         for contact_id, info in map_contact_to_info.items():
-            info["Name"] = text_normalization(
-                map_hash_to_text[str(info["Name"]["Hash"])]
-            )
-            info["SignatureText"] = text_normalization(
-                map_hash_to_text[str(info["SignatureText"]["Hash"])]
-            )
-            if "ContactsCamp" in info:
-                info["ContactsCamp"] = text_normalization(
-                    map_hash_to_text[
-                        str(
-                            contact_camp_info[str(info["ContactsCamp"])]["Name"]["Hash"]
-                        )
-                    ]
+            try:
+                info["Name"] = text_normalization(
+                    map_hash_to_text[str(info["Name"]["Hash"])]
                 )
-            map_contact_to_info[contact_id] = info
+                info["SignatureText"] = text_normalization(
+                    map_hash_to_text[str(info["SignatureText"]["Hash"])]
+                )
+                if "ContactsCamp" in info:
+                    info["ContactsCamp"] = text_normalization(
+                        map_hash_to_text[
+                            str(
+                                contact_camp_info[str(info["ContactsCamp"])]["Name"]["Hash"]
+                            )
+                        ]
+                    )
+                map_contact_to_info[contact_id] = info
+            except:
+                print(traceback.format_exc())
 
     # get messages
     with open(
