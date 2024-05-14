@@ -212,7 +212,6 @@ if __name__ == "__main__":
     # simple tasks
     for input_name, output_name in [
         ("BookSeriesConfig.json", "books.jsonl"),
-        ("SubMission.json", "submissions.jsonl"),
         ("ItemConfig.json", "items.jsonl"),
         ("MazeBuff.json", "maze_buff.jsonl"),
     ]:

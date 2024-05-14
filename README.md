@@ -85,7 +85,7 @@ What data can be extracted:
   - [ ] etc
 - [ ] Misc
   - [x] Books
-  - [x] Submissions
+  - [x] Missions
   - [x] Items
   - [x] Maze buffs
   - [x] avatars
@@ -146,12 +146,25 @@ python get_misc.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
 # books.jsonl
 {"BookSeriesID": 1, "BookSeries": "Floriography Manual Attached to a Bouquet", "BookSeriesComments": "Contains commonly used floriography in Belobog. The ways of the world are condensed into this manual.", "BookSeriesNum": 1, "BookSeriesWorld": 2, "IsShowInBookshelf": true}
 
-# submissions.jsonl
-{"SubMissionID": 100010100, "TargetText": "Use a fake identity to get past security check", "DescrptionText": "The woman sauntering elegantly across the invasion site is a mystery. She mocks the victims, while also ruthlessly eliminating their oppressors.\\n Over their comms, the mysterious helper revealed that the two seem to have some sort of agenda.\\nIs their presence a sign of more chaos to come? Or is it the start of a new story?"}
-
 # items.jsonl
 {"ID": 2, "ItemMainType": "Virtual", "ItemSubType": "Virtual", "InventoryDisplayTag": 1, "Rarity": "Rare", "PurposeType": 11, "ItemName": "Credit", "ItemDesc": "This currency, used by the Interastral Peace Corporation to settle accounts with its customers, is now widely accepted as the hard currency for space travel.", "ItemBGDesc": "\"People run around fighting and trading for numbers in a terminal, but the truly precious cannot be bought.\"", "ItemIconPath": "SpriteOutput/ItemIcon/2.png", "ItemFigureIconPath": "SpriteOutput/ItemFigures/2.png", "ItemCurrencyIconPath": "SpriteOutput/ItemCurrency/2.png", "ItemAvatarIconPath": "", "PileLimit": 999999999, "CustomDataList": [], "ReturnItemIDList": []}
 
 # maze_buff.jsonl
 {"1": {"ID": 100201, "BuffSeries": 1, "BuffRarity": 1, "Lv": 1, "LvMax": 1, "ModifierName": "ADV_StageAbility_Maze_DanHeng", "InBattleBindingType": "CharacterSkill", "InBattleBindingKey": "SkillMaze", "ParamList": [], "BuffDescParamByAvatarSkillID": 100207, "BuffIcon": "SpriteOutput/BuffIcon/Inlevel/Icon1002Maze.png", "BuffName": "Splitting Spearhead", "BuffDesc": "At the start of the next battle, Dan Heng's ATK increases by #1[i]% for #2[i] turn(s).", "BuffSimpleDesc": "N/A", "BuffDescBattle": "At the start of the next battle, Dan Heng's ATK increases by #1[i]% for #2[i] turn(s).", "BuffEffect": "MazeBuffEffect_100201", "MazeBuffType": "Character", "MazeBuffIconType": "Other", "MazeBuffPool": 3, "IsDisplay": true}}
+~~~
+
+#### Misc
+
+The resulting extraction contains missions information
+
+- Code
+
+~~~
+python get_missions.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
+~~~
+
+- Example
+
+~~~
+{ "mission": { "name": "Eye of the Storm", "next_missions": [], "next_track_mission": 1000202, "chapter_id": 100001, "reward_id": 11000201 }, "submissions": [ { "submission_ids": [ 100020104, 100020105 ], "target": "Leave and see what's going on outside", "desc": "You move your gaze away from the unfamiliar ceiling and look at the variety of Curios around you. A woman's voice echoes in your head but you're in no position to confirm whether you can clearly remember it.\\n\"When you have a chance to make a choice, make one that you know you won't regret...\"\\nYou decide to first listen to March 7th and Dan Heng, who had just left. At least they don't look like bad people.\\nAlright, now that there are companions, it's time to leave this place." }, { "submission_ids": [ 100020106, 100020107 ], "target": "Listen to March 7th and protect yourself", "desc": "You keep thinking about what March 7th said: \"The Legion are rampaging through the space station like a pack of wolves...\" It seems like the road ahead is going to be a hard one.\\nYou look at March 7th beside you and she nods at you with confidence.\\nYou then look at the baseball bat in your hand, which is glowing as if also full of confidence.\\nYou can do it too, give it a try!" }, { "submission_ids": [ 100020131, 100020109 ], "target": "Go to the elevator in the central area", "desc": "It would seem that the only way to the space station's master control zone is through the elevator — it doesn't seem to be too far." } ] }
 ~~~
