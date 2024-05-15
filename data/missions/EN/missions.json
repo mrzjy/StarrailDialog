@@ -624,7 +624,12 @@
             "next_missions": [],
             "next_track_mission": 1010101,
             "chapter_id": 101001,
-            "reward_id": 11010002
+            "reward_id": 11010002,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -666,7 +671,12 @@
             "next_missions": [],
             "next_track_mission": 1010201,
             "chapter_id": 101001,
-            "reward_id": 11010101
+            "reward_id": 11010101,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -711,7 +721,12 @@
             "next_missions": [],
             "next_track_mission": 1010206,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -739,7 +754,12 @@
             "next_missions": [],
             "next_track_mission": 1010205,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -757,7 +777,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": []
     },
@@ -767,7 +792,12 @@
             "next_missions": [],
             "next_track_mission": 1010301,
             "chapter_id": 101001,
-            "reward_id": 11010202
+            "reward_id": 11010202,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -800,7 +830,12 @@
             "next_missions": [],
             "next_track_mission": 1010204,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -835,7 +870,12 @@
             "next_missions": [],
             "next_track_mission": 1010202,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -883,7 +923,12 @@
             "next_missions": [],
             "next_track_mission": 1010302,
             "chapter_id": 101001,
-            "reward_id": 11010301
+            "reward_id": 11010301,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -910,7 +955,12 @@
             "next_missions": [],
             "next_track_mission": 1010401,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -936,7 +986,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": []
     },
@@ -946,7 +1001,12 @@
             "next_missions": [],
             "next_track_mission": 1010405,
             "chapter_id": 101001,
-            "reward_id": 11010302
+            "reward_id": 11010302,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -965,7 +1025,12 @@
             "next_missions": [],
             "next_track_mission": 1010403,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -998,7 +1063,12 @@
             "next_missions": [],
             "next_track_mission": 1010502,
             "chapter_id": 101001,
-            "reward_id": 11010403
+            "reward_id": 11010403,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1019,7 +1089,12 @@
             "next_missions": [],
             "next_track_mission": 1010402,
             "chapter_id": 101001,
-            "reward_id": 11010405
+            "reward_id": 11010405,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1084,7 +1159,12 @@
             "next_missions": [],
             "next_track_mission": 1010601,
             "chapter_id": 101001,
-            "reward_id": 11010501
+            "reward_id": 11010501,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1188,7 +1268,12 @@
             "next_missions": [],
             "next_track_mission": 1010501,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1206,7 +1291,12 @@
             "next_missions": [],
             "next_track_mission": 1010602,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1234,7 +1324,12 @@
             "next_missions": [],
             "next_track_mission": 1010700,
             "chapter_id": 101001,
-            "reward_id": 11010602
+            "reward_id": 11010602,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1268,7 +1363,12 @@
             "next_missions": [],
             "next_track_mission": 1010701,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1286,7 +1386,12 @@
             "next_missions": [],
             "next_track_mission": 1010801,
             "chapter_id": 101001,
-            "reward_id": 11010701
+            "reward_id": 11010701,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1363,7 +1468,12 @@
             "next_missions": [],
             "next_track_mission": 1010802,
             "chapter_id": 101001,
-            "reward_id": 11010801
+            "reward_id": 11010801,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1382,7 +1492,12 @@
             "next_missions": [],
             "next_track_mission": 1010901,
             "chapter_id": 101001,
-            "reward_id": 11010802
+            "reward_id": 11010802,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1400,7 +1515,12 @@
             "next_missions": [],
             "next_track_mission": 1010902,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1419,7 +1539,12 @@
             "next_missions": [],
             "next_track_mission": 1011001,
             "chapter_id": 101001,
-            "reward_id": 11010902
+            "reward_id": 11010902,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1572,7 +1697,12 @@
             "next_missions": [],
             "next_track_mission": 1011003,
             "chapter_id": 101001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Withering Wintry Night",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "Explore, understand, establish, and connect — This is the way of trailblazing that the Nameless have always lived by. As the latest member of the Express Crew, your first stop is Jarilo-VI, a planet covered in blizzard and ice..."
+            }
         },
         "submissions": [
             {
@@ -1624,7 +1754,12 @@
             "next_missions": [],
             "next_track_mission": 1011101,
             "chapter_id": 101002,
-            "reward_id": 11011002
+            "reward_id": 11011002,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1666,7 +1801,12 @@
             "next_missions": [],
             "next_track_mission": 1011002,
             "chapter_id": 101002,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1685,7 +1825,12 @@
             "next_missions": [],
             "next_track_mission": 1011102,
             "chapter_id": 101002,
-            "reward_id": 2000088
+            "reward_id": 2000088,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1752,7 +1897,12 @@
             "next_missions": [],
             "next_track_mission": 1011201,
             "chapter_id": 101002,
-            "reward_id": 11011102
+            "reward_id": 11011102,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1800,7 +1950,12 @@
             "next_missions": [],
             "next_track_mission": 1011202,
             "chapter_id": 101002,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1821,7 +1976,12 @@
             "next_missions": [],
             "next_track_mission": 1011301,
             "chapter_id": 101002,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1839,7 +1999,12 @@
             "next_missions": [],
             "next_track_mission": 1011400,
             "chapter_id": 101002,
-            "reward_id": 11011301
+            "reward_id": 11011301,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1931,7 +2096,12 @@
             "next_missions": [],
             "next_track_mission": 1011403,
             "chapter_id": 101002,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1949,7 +2119,12 @@
             "next_missions": [],
             "next_track_mission": 1011402,
             "chapter_id": 101002,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1971,7 +2146,12 @@
             "next_missions": [],
             "next_track_mission": 1011403,
             "chapter_id": 101002,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -1991,7 +2171,12 @@
             "next_missions": [],
             "next_track_mission": 1011501,
             "chapter_id": 101002,
-            "reward_id": 11011403
+            "reward_id": 11011403,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -2010,7 +2195,12 @@
             "next_missions": [],
             "next_track_mission": 1011502,
             "chapter_id": 101002,
-            "reward_id": 11011501
+            "reward_id": 11011501,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -2091,7 +2281,12 @@
             "next_missions": [],
             "next_track_mission": 1011503,
             "chapter_id": 101002,
-            "reward_id": 11011502
+            "reward_id": 11011502,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -2151,7 +2346,12 @@
             "next_missions": [],
             "next_track_mission": 1020101,
             "chapter_id": 101002,
-            "reward_id": 11011503
+            "reward_id": 11011503,
+            "chapter": {
+                "ChapterName": "In the Sweltering Morning Sun",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "With your help, the people of the Underworld freed themselves from the cage that Svarog had designed for them. To \"preserve\" the freedom of Belobog and to continue the Express' interstellar journey, you must return to the Overworld and challenge the ruler of this world..."
+            }
         },
         "submissions": [
             {
@@ -4071,7 +4271,12 @@
             "next_missions": [],
             "next_track_mission": 2000202,
             "chapter_id": 600001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "The Dawn After the Dark",
+                "StageName": "The Blue",
+                "ChapterDesc": "A sudden invasion broke the long-maintained peace and harmony. However, in the space station, what needed to be cleaned up is not the broken pieces of equipment, but the sinister whispers and the fear hidden deep inside people's hearts."
+            }
         },
         "submissions": [
             {
@@ -4111,7 +4316,12 @@
             "next_missions": [],
             "next_track_mission": 2000208,
             "chapter_id": 600001,
-            "reward_id": 12000202
+            "reward_id": 12000202,
+            "chapter": {
+                "ChapterName": "The Dawn After the Dark",
+                "StageName": "The Blue",
+                "ChapterDesc": "A sudden invasion broke the long-maintained peace and harmony. However, in the space station, what needed to be cleaned up is not the broken pieces of equipment, but the sinister whispers and the fear hidden deep inside people's hearts."
+            }
         },
         "submissions": [
             {
@@ -4162,7 +4372,12 @@
             "next_missions": [],
             "next_track_mission": 2000202,
             "chapter_id": 600001,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "The Dawn After the Dark",
+                "StageName": "The Blue",
+                "ChapterDesc": "A sudden invasion broke the long-maintained peace and harmony. However, in the space station, what needed to be cleaned up is not the broken pieces of equipment, but the sinister whispers and the fear hidden deep inside people's hearts."
+            }
         },
         "submissions": [
             {
@@ -4517,7 +4732,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 600001,
-            "reward_id": 12000211
+            "reward_id": 12000211,
+            "chapter": {
+                "ChapterName": "The Dawn After the Dark",
+                "StageName": "The Blue",
+                "ChapterDesc": "A sudden invasion broke the long-maintained peace and harmony. However, in the space station, what needed to be cleaned up is not the broken pieces of equipment, but the sinister whispers and the fear hidden deep inside people's hearts."
+            }
         },
         "submissions": [
             {
@@ -4855,7 +5075,11 @@
             "next_missions": [],
             "next_track_mission": 2000702,
             "chapter_id": 601071,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Stellaron Hunters",
+                "ChapterDesc": "They who chase after fear, they who crave demise, they who inquire meaning, they who challenge life, they who see the future... They reveal, they act, and they will eventually obtain their hunt."
+            }
         },
         "submissions": [
             {
@@ -4957,7 +5181,11 @@
             "next_missions": [],
             "next_track_mission": 2000704,
             "chapter_id": 601071,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Stellaron Hunters",
+                "ChapterDesc": "They who chase after fear, they who crave demise, they who inquire meaning, they who challenge life, they who see the future... They reveal, they act, and they will eventually obtain their hunt."
+            }
         },
         "submissions": [
             {
@@ -5004,7 +5232,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601071,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Stellaron Hunters",
+                "ChapterDesc": "They who chase after fear, they who crave demise, they who inquire meaning, they who challenge life, they who see the future... They reveal, they act, and they will eventually obtain their hunt."
+            }
         },
         "submissions": [
             {
@@ -5048,7 +5280,11 @@
             "next_missions": [],
             "next_track_mission": 2000705,
             "chapter_id": 601071,
-            "reward_id": 12000704
+            "reward_id": 12000704,
+            "chapter": {
+                "ChapterName": "Stellaron Hunters",
+                "ChapterDesc": "They who chase after fear, they who crave demise, they who inquire meaning, they who challenge life, they who see the future... They reveal, they act, and they will eventually obtain their hunt."
+            }
         },
         "submissions": [
             {
@@ -5140,7 +5376,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601091,
-            "reward_id": 12000801
+            "reward_id": 12000801,
+            "chapter": {
+                "ChapterName": "Cosmic Splendor and Merited Praises",
+                "ChapterDesc": "On a long, sanguine night wreathed in illusions, the greatest display of fabricated fireworks is but a hymn from a universe that has bloomed and withered thereafter."
+            }
         },
         "submissions": [
             {
@@ -5165,7 +5405,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601091,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Cosmic Splendor and Merited Praises",
+                "ChapterDesc": "On a long, sanguine night wreathed in illusions, the greatest display of fabricated fireworks is but a hymn from a universe that has bloomed and withered thereafter."
+            }
         },
         "submissions": [
             {
@@ -5288,7 +5532,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 600011,
-            "reward_id": 12000901
+            "reward_id": 12000901,
+            "chapter": {
+                "ChapterName": "Crown of the Mundane and Divine"
+            }
         },
         "submissions": [
             {
@@ -5379,7 +5626,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 600011,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Crown of the Mundane and Divine"
+            }
         },
         "submissions": [
             {
@@ -5484,7 +5734,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 600011,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Crown of the Mundane and Divine"
+            }
         },
         "submissions": [
             {
@@ -5543,7 +5796,10 @@
             "next_missions": [],
             "next_track_mission": 2000901,
             "chapter_id": 600011,
-            "reward_id": 12001001
+            "reward_id": 12001001,
+            "chapter": {
+                "ChapterName": "Crown of the Mundane and Divine"
+            }
         },
         "submissions": [
             {
@@ -5728,7 +5984,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 600011,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Crown of the Mundane and Divine"
+            }
         },
         "submissions": [
             {
@@ -5774,7 +6033,12 @@
             "next_missions": [],
             "next_track_mission": 2010206,
             "chapter_id": 101101,
-            "reward_id": 12010201
+            "reward_id": 12010201,
+            "chapter": {
+                "ChapterName": "Jolted Awake From a Winter Dream",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "For the Nameless, the joy of the journey lies not only in a series of novel adventures but also in the delightful reunions with old friends, a beautiful part of the Trailblaze.\\n\\nThe ice and snow of Jarilo-VI are melting, and all signs of Belobog seem to point to a bright future. People are rediscovering the pleasures of life and even planning festivities to bid farewell to the Everwinter.\\n\\nHowever, beneath the calm surface, there's a current of hidden motives tinged with the scent of money that is starting to surge..."
+            }
         },
         "submissions": [
             {
@@ -5823,7 +6087,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 101101,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Jolted Awake From a Winter Dream",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "For the Nameless, the joy of the journey lies not only in a series of novel adventures but also in the delightful reunions with old friends, a beautiful part of the Trailblaze.\\n\\nThe ice and snow of Jarilo-VI are melting, and all signs of Belobog seem to point to a bright future. People are rediscovering the pleasures of life and even planning festivities to bid farewell to the Everwinter.\\n\\nHowever, beneath the calm surface, there's a current of hidden motives tinged with the scent of money that is starting to surge..."
+            }
         },
         "submissions": [
             {
@@ -5867,7 +6136,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 101101,
-            "reward_id": 12010203
+            "reward_id": 12010203,
+            "chapter": {
+                "ChapterName": "Jolted Awake From a Winter Dream",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "For the Nameless, the joy of the journey lies not only in a series of novel adventures but also in the delightful reunions with old friends, a beautiful part of the Trailblaze.\\n\\nThe ice and snow of Jarilo-VI are melting, and all signs of Belobog seem to point to a bright future. People are rediscovering the pleasures of life and even planning festivities to bid farewell to the Everwinter.\\n\\nHowever, beneath the calm surface, there's a current of hidden motives tinged with the scent of money that is starting to surge..."
+            }
         },
         "submissions": [
             {
@@ -5976,7 +6250,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 101101,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Jolted Awake From a Winter Dream",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "For the Nameless, the joy of the journey lies not only in a series of novel adventures but also in the delightful reunions with old friends, a beautiful part of the Trailblaze.\\n\\nThe ice and snow of Jarilo-VI are melting, and all signs of Belobog seem to point to a bright future. People are rediscovering the pleasures of life and even planning festivities to bid farewell to the Everwinter.\\n\\nHowever, beneath the calm surface, there's a current of hidden motives tinged with the scent of money that is starting to surge..."
+            }
         },
         "submissions": [
             {
@@ -6030,7 +6309,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 101101,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Jolted Awake From a Winter Dream",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "For the Nameless, the joy of the journey lies not only in a series of novel adventures but also in the delightful reunions with old friends, a beautiful part of the Trailblaze.\\n\\nThe ice and snow of Jarilo-VI are melting, and all signs of Belobog seem to point to a bright future. People are rediscovering the pleasures of life and even planning festivities to bid farewell to the Everwinter.\\n\\nHowever, beneath the calm surface, there's a current of hidden motives tinged with the scent of money that is starting to surge..."
+            }
         },
         "submissions": [
             {
@@ -6063,7 +6347,12 @@
             "next_missions": [],
             "next_track_mission": 2010203,
             "chapter_id": 101101,
-            "reward_id": 12010206
+            "reward_id": 12010206,
+            "chapter": {
+                "ChapterName": "Jolted Awake From a Winter Dream",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "For the Nameless, the joy of the journey lies not only in a series of novel adventures but also in the delightful reunions with old friends, a beautiful part of the Trailblaze.\\n\\nThe ice and snow of Jarilo-VI are melting, and all signs of Belobog seem to point to a bright future. People are rediscovering the pleasures of life and even planning festivities to bid farewell to the Everwinter.\\n\\nHowever, beneath the calm surface, there's a current of hidden motives tinged with the scent of money that is starting to surge..."
+            }
         },
         "submissions": [
             {
@@ -6387,7 +6676,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": []
     },
@@ -6397,7 +6690,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12010501
+            "reward_id": 12010501,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -6645,7 +6942,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": []
     },
@@ -6655,7 +6956,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12010703
+            "reward_id": 12010703,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -6765,7 +7070,11 @@
             "next_missions": [],
             "next_track_mission": 2010706,
             "chapter_id": 601021,
-            "reward_id": 12010705
+            "reward_id": 12010705,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -6840,7 +7149,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -6930,7 +7243,11 @@
             "next_missions": [],
             "next_track_mission": 2010902,
             "chapter_id": 601021,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -7028,7 +7345,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12010902
+            "reward_id": 12010902,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -7193,7 +7514,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12010905
+            "reward_id": 12010905,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -7281,7 +7606,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12010906
+            "reward_id": 12010906,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -7756,7 +8085,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": []
     },
@@ -7766,7 +8099,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12011401
+            "reward_id": 12011401,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -7858,7 +8195,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12011402
+            "reward_id": 12011402,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -7915,7 +8256,11 @@
             "next_missions": [],
             "next_track_mission": 2011405,
             "chapter_id": 601021,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -7961,7 +8306,11 @@
             "next_missions": [],
             "next_track_mission": 2011405,
             "chapter_id": 601021,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -8015,7 +8364,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12011405
+            "reward_id": 12011405,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -8213,7 +8566,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": 12011411
+            "reward_id": 12011411,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -8302,7 +8659,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601021,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Slices of Life Before the Furnace",
+                "ChapterDesc": "The giant furnace glances down upon the people abandoned by the Everwinter City. Under worsening living conditions, everyone is doing their best to survive, weaving poignant stories into their lives."
+            }
         },
         "submissions": [
             {
@@ -8630,7 +8991,12 @@
             "next_missions": [],
             "next_track_mission": 2011906,
             "chapter_id": 201001,
-            "reward_id": 12011901
+            "reward_id": 12011901,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -8704,7 +9070,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 12011902
+            "reward_id": 12011902,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -8779,7 +9150,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 12011903
+            "reward_id": 12011903,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -8846,7 +9222,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -8901,7 +9282,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 12011905
+            "reward_id": 12011905,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -8941,7 +9327,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -9839,7 +10230,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": 12020305
+            "reward_id": 12020305,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -9920,7 +10314,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10019,7 +10416,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601061,
-            "reward_id": 12020307
+            "reward_id": 12020307,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10101,7 +10501,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601061,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10155,7 +10558,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": 12020309
+            "reward_id": 12020309,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10181,7 +10587,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": 12020313
+            "reward_id": 12020313,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10234,7 +10643,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10296,7 +10708,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10662,7 +11077,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": 12020501
+            "reward_id": 12020501,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10694,7 +11112,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10727,7 +11148,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10754,7 +11178,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10790,7 +11217,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10817,7 +11247,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10842,7 +11275,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": 12020601
+            "reward_id": 12020601,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -10883,7 +11319,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -11164,7 +11603,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": 12021001
+            "reward_id": 12021001,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -11204,7 +11646,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -17323,7 +17768,10 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601051,
-            "reward_id": 16020101
+            "reward_id": 16020101,
+            "chapter": {
+                "StageName": "The Xianzhou Luofu"
+            }
         },
         "submissions": [
             {
@@ -17457,7 +17905,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 601071,
-            "reward_id": 16020201
+            "reward_id": 16020201,
+            "chapter": {
+                "ChapterName": "Stellaron Hunters",
+                "ChapterDesc": "They who chase after fear, they who crave demise, they who inquire meaning, they who challenge life, they who see the future... They reveal, they act, and they will eventually obtain their hunt."
+            }
         },
         "submissions": [
             {
@@ -18362,7 +18814,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18408,7 +18865,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18447,7 +18909,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18486,7 +18953,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18526,7 +18998,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18566,7 +19043,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18612,7 +19094,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18658,7 +19145,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18704,7 +19196,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18743,7 +19240,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18782,7 +19284,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18821,7 +19328,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18861,7 +19373,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18907,7 +19424,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18946,7 +19468,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -18985,7 +19512,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19024,7 +19556,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19063,7 +19600,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19088,7 +19630,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 18001241
+            "reward_id": 18001241,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19106,7 +19653,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 18001242
+            "reward_id": 18001242,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19124,7 +19676,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 18001243
+            "reward_id": 18001243,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19142,7 +19699,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 18001244
+            "reward_id": 18001244,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19160,7 +19722,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19192,7 +19759,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19224,7 +19796,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19256,7 +19833,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19281,7 +19863,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 201001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Everwinter City Museum Ledger of Curiosities",
+                "StageName": "Jarilo-VI",
+                "ChapterDesc": "In the past <unbreak>700</unbreak> years, the city of Belobog has seen many turmoils and changes. During your journey to vanquish the Stellaron conspiracy, you have become part of the city's history. It's said that the grand museum at the Administrative District will open soon. Maybe you'll find marks of your Trailblaze there..."
+            }
         },
         "submissions": [
             {
@@ -19983,7 +20570,12 @@
             "next_missions": [],
             "next_track_mission": 8003202,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20008,7 +20600,12 @@
             "next_missions": [],
             "next_track_mission": 8003213,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20095,7 +20692,12 @@
             "next_missions": [],
             "next_track_mission": 8003215,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20146,7 +20748,12 @@
             "next_missions": [],
             "next_track_mission": 8003220,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20164,7 +20771,12 @@
             "next_missions": [],
             "next_track_mission": 8003206,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20196,7 +20808,12 @@
             "next_missions": [],
             "next_track_mission": 8003207,
             "chapter_id": 802001,
-            "reward_id": 18003206
+            "reward_id": 18003206,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20247,7 +20864,12 @@
             "next_missions": [],
             "next_track_mission": 8003221,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20265,7 +20887,12 @@
             "next_missions": [],
             "next_track_mission": 8003216,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20292,7 +20919,12 @@
             "next_missions": [],
             "next_track_mission": 8003210,
             "chapter_id": 802001,
-            "reward_id": 18003209
+            "reward_id": 18003209,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20387,7 +21019,12 @@
             "next_missions": [],
             "next_track_mission": 8003222,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20405,7 +21042,12 @@
             "next_missions": [],
             "next_track_mission": 8003212,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20460,7 +21102,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003211
+            "reward_id": 18003211,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20485,7 +21132,12 @@
             "next_missions": [],
             "next_track_mission": 8003214,
             "chapter_id": 802001,
-            "reward_id": 18003213
+            "reward_id": 18003213,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20505,7 +21157,12 @@
             "next_missions": [],
             "next_track_mission": 8003204,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20523,7 +21180,12 @@
             "next_missions": [],
             "next_track_mission": 8003205,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20541,7 +21203,12 @@
             "next_missions": [],
             "next_track_mission": 8003209,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20559,7 +21226,12 @@
             "next_missions": [],
             "next_track_mission": 8003203,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20584,7 +21256,12 @@
             "next_missions": [],
             "next_track_mission": 8003208,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20609,7 +21286,12 @@
             "next_missions": [],
             "next_track_mission": 8003211,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20634,7 +21316,12 @@
             "next_missions": [],
             "next_track_mission": 8003217,
             "chapter_id": 802001,
-            "reward_id": 18003217
+            "reward_id": 18003217,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20652,7 +21339,12 @@
             "next_missions": [],
             "next_track_mission": 8003218,
             "chapter_id": 802001,
-            "reward_id": 18003218
+            "reward_id": 18003218,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20670,7 +21362,12 @@
             "next_missions": [],
             "next_track_mission": 8003219,
             "chapter_id": 802001,
-            "reward_id": 18003219
+            "reward_id": 18003219,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20688,7 +21385,12 @@
             "next_missions": [],
             "next_track_mission": 8003241,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20714,7 +21416,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003241
+            "reward_id": 18003241,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20732,7 +21439,12 @@
             "next_missions": [],
             "next_track_mission": 8003243,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20778,7 +21490,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003243
+            "reward_id": 18003243,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20798,7 +21515,12 @@
             "next_missions": [],
             "next_track_mission": 8003245,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20838,7 +21560,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003245
+            "reward_id": 18003245,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20858,7 +21585,12 @@
             "next_missions": [],
             "next_track_mission": 8003247,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20897,7 +21629,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003247
+            "reward_id": 18003247,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20917,7 +21654,12 @@
             "next_missions": [],
             "next_track_mission": 8003249,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20956,7 +21698,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003249
+            "reward_id": 18003249,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -20976,7 +21723,12 @@
             "next_missions": [],
             "next_track_mission": 8003251,
             "chapter_id": 802001,
-            "reward_id": 100
+            "reward_id": 100,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -21015,7 +21767,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003251
+            "reward_id": 18003251,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -21035,7 +21792,12 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 802001,
-            "reward_id": 18003280
+            "reward_id": 18003280,
+            "chapter": {
+                "ChapterName": "Aurum Alley's Hustle and Bustle",
+                "StageName": "The Xianzhou Luofu",
+                "ChapterDesc": "The decaying Aurum Alley has now found a chance for revitalization — It can either be funded and rebuilt by the IPC, or be led back to prosperity by the local merchant guild. And now, you are in a position to influence its decision..."
+            }
         },
         "submissions": [
             {
@@ -21377,7 +22139,11 @@
             "next_missions": [],
             "next_track_mission": 8014102,
             "chapter_id": 801411,
-            "reward_id": 18014101
+            "reward_id": 18014101,
+            "chapter": {
+                "ChapterName": "Interastral Tournament Festival",
+                "ChapterDesc": "The Interastral Tournament Festival is officially underway! Aetherium Wars Players from across the universe of will gather together to compete in the Aether Spirit battles to vie for the title of champion..."
+            }
         },
         "submissions": [
             {
@@ -21430,7 +22196,11 @@
             "next_missions": [],
             "next_track_mission": 8014103,
             "chapter_id": 801411,
-            "reward_id": 18014102
+            "reward_id": 18014102,
+            "chapter": {
+                "ChapterName": "Interastral Tournament Festival",
+                "ChapterDesc": "The Interastral Tournament Festival is officially underway! Aetherium Wars Players from across the universe of will gather together to compete in the Aether Spirit battles to vie for the title of champion..."
+            }
         },
         "submissions": [
             {
@@ -21526,7 +22296,11 @@
             "next_missions": [],
             "next_track_mission": 8014104,
             "chapter_id": 801411,
-            "reward_id": 18014103
+            "reward_id": 18014103,
+            "chapter": {
+                "ChapterName": "Interastral Tournament Festival",
+                "ChapterDesc": "The Interastral Tournament Festival is officially underway! Aetherium Wars Players from across the universe of will gather together to compete in the Aether Spirit battles to vie for the title of champion..."
+            }
         },
         "submissions": [
             {
@@ -21608,7 +22382,11 @@
             "next_missions": [],
             "next_track_mission": 8014105,
             "chapter_id": 801411,
-            "reward_id": 18014104
+            "reward_id": 18014104,
+            "chapter": {
+                "ChapterName": "Interastral Tournament Festival",
+                "ChapterDesc": "The Interastral Tournament Festival is officially underway! Aetherium Wars Players from across the universe of will gather together to compete in the Aether Spirit battles to vie for the title of champion..."
+            }
         },
         "submissions": [
             {
@@ -21698,7 +22476,11 @@
             "next_missions": [],
             "next_track_mission": 8014106,
             "chapter_id": 801411,
-            "reward_id": 18014105
+            "reward_id": 18014105,
+            "chapter": {
+                "ChapterName": "Interastral Tournament Festival",
+                "ChapterDesc": "The Interastral Tournament Festival is officially underway! Aetherium Wars Players from across the universe of will gather together to compete in the Aether Spirit battles to vie for the title of champion..."
+            }
         },
         "submissions": [
             {
@@ -21781,7 +22563,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801411,
-            "reward_id": 18014106
+            "reward_id": 18014106,
+            "chapter": {
+                "ChapterName": "Interastral Tournament Festival",
+                "ChapterDesc": "The Interastral Tournament Festival is officially underway! Aetherium Wars Players from across the universe of will gather together to compete in the Aether Spirit battles to vie for the title of champion..."
+            }
         },
         "submissions": [
             {
@@ -22910,7 +23696,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -22935,7 +23725,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015151
+            "reward_id": 18015151,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23009,7 +23803,11 @@
             "next_missions": [],
             "next_track_mission": 8015150,
             "chapter_id": 801511,
-            "reward_id": 18015152
+            "reward_id": 18015152,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23055,7 +23853,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015153
+            "reward_id": 18015153,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23129,7 +23931,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23154,7 +23960,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015155
+            "reward_id": 18015155,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23200,7 +24010,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23239,7 +24053,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015157
+            "reward_id": 18015157,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23292,7 +24110,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23359,7 +24181,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015161
+            "reward_id": 18015161,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23426,7 +24252,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015162
+            "reward_id": 18015162,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23486,7 +24316,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015163
+            "reward_id": 18015163,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23555,7 +24389,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015171
+            "reward_id": 18015171,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23580,7 +24418,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015172
+            "reward_id": 18015172,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23633,7 +24475,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": 18015173
+            "reward_id": 18015173,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23800,7 +24646,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23818,7 +24668,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23836,7 +24690,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -23854,7 +24712,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801511,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Luofu Myths",
+                "ChapterDesc": "Sailing through the void named eternal night, there are always strange and unbelievable tales, utterly unfounded and fantastical. Mysterious stories — indistinguishable between truth and falsehood — flicker between people's words and the internet. Those who watch from the sidelines find amusement in the whimsical narratives, while those caught up in them struggle to discern reality from illusion."
+            }
         },
         "submissions": [
             {
@@ -24037,7 +24899,11 @@
             "next_missions": [],
             "next_track_mission": 8016202,
             "chapter_id": 801611,
-            "reward_id": 18016201
+            "reward_id": 18016201,
+            "chapter": {
+                "ChapterName": "Critter Pick",
+                "ChapterDesc": "The genius' visit left behind mysterious creations from Ruan Mei on the space station. They seemed to have a special connection with {NICKNAME}... Even Asta has tasked {NICKNAME} with taking care of these weird little lifeforms."
+            }
         },
         "submissions": [
             {
@@ -24106,7 +24972,11 @@
             "next_missions": [],
             "next_track_mission": 8016210,
             "chapter_id": 801611,
-            "reward_id": 18016202
+            "reward_id": 18016202,
+            "chapter": {
+                "ChapterName": "Critter Pick",
+                "ChapterDesc": "The genius' visit left behind mysterious creations from Ruan Mei on the space station. They seemed to have a special connection with {NICKNAME}... Even Asta has tasked {NICKNAME} with taking care of these weird little lifeforms."
+            }
         },
         "submissions": [
             {
@@ -24194,7 +25064,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801611,
-            "reward_id": 18016203
+            "reward_id": 18016203,
+            "chapter": {
+                "ChapterName": "Critter Pick",
+                "ChapterDesc": "The genius' visit left behind mysterious creations from Ruan Mei on the space station. They seemed to have a special connection with {NICKNAME}... Even Asta has tasked {NICKNAME} with taking care of these weird little lifeforms."
+            }
         },
         "submissions": [
             {
@@ -24247,7 +25121,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801611,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Critter Pick",
+                "ChapterDesc": "The genius' visit left behind mysterious creations from Ruan Mei on the space station. They seemed to have a special connection with {NICKNAME}... Even Asta has tasked {NICKNAME} with taking care of these weird little lifeforms."
+            }
         },
         "submissions": [
             {
@@ -24265,7 +25143,11 @@
             "next_missions": [],
             "next_track_mission": null,
             "chapter_id": 801611,
-            "reward_id": null
+            "reward_id": null,
+            "chapter": {
+                "ChapterName": "Critter Pick",
+                "ChapterDesc": "The genius' visit left behind mysterious creations from Ruan Mei on the space station. They seemed to have a special connection with {NICKNAME}... Even Asta has tasked {NICKNAME} with taking care of these weird little lifeforms."
+            }
         },
         "submissions": [
             {
@@ -24283,7 +25165,11 @@
             "next_missions": [],
             "next_track_mission": 8016203,
             "chapter_id": 801611,
-            "reward_id": 18016210
+            "reward_id": 18016210,
+            "chapter": {
+                "ChapterName": "Critter Pick",
+                "ChapterDesc": "The genius' visit left behind mysterious creations from Ruan Mei on the space station. They seemed to have a special connection with {NICKNAME}... Even Asta has tasked {NICKNAME} with taking care of these weird little lifeforms."
+            }
         },
         "submissions": [
             {

@@ -5,7 +5,7 @@ import json
 import os
 import re
 
-from util.common import text_normalization, load_text_hash_map
+from util.common import text_normalization, load_text_hash_map, get_stable_hash
 
 
 def get_missions(repo: str, map_hash_to_text: dict, lang: str):
@@ -18,6 +18,16 @@ def get_missions(repo: str, map_hash_to_text: dict, lang: str):
                     print(f"warning: {item['Hash']} hash key not found")
                     info[key] = "N/A"
         return info
+
+    chapter_file = os.path.join(repo, "ExcelOutput/MissionChapterConfig.json")
+    with open(chapter_file, "r", encoding="utf-8") as f:
+        chapter_map = json.load(f)
+    for chapter_id, info in chapter_map.items():
+        keys = ["ChapterName", "StageName", "ChapterDesc"]
+        chapter_map[chapter_id] = {
+            key: map_hash_to_text.get(str(get_stable_hash(info[key])), "N/A")
+            for key in keys if info[key] and str(get_stable_hash(info[key])) in map_hash_to_text
+        }
 
     mission_file = os.path.join(repo, "ExcelOutput/MainMission.json")
     with open(mission_file, "r", encoding="utf-8") as f:
@@ -67,6 +77,9 @@ def get_missions(repo: str, map_hash_to_text: dict, lang: str):
                     "chapter_id": mission.get("ChapterID", None),
                     "reward_id": mission.get("RewardID", None),
                 }
+                if mission["chapter_id"] and chapter_map.get(str(mission["chapter_id"])):
+                    mission["chapter"] = chapter_map.get(str(mission["chapter_id"]))
+
                 mission_hierarchy_map[info["MainMissionID"]] = {
                     "mission": mission,
                     "submissions": merged_submissions

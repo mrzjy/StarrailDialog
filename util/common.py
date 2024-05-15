@@ -4,11 +4,14 @@ import re
 
 import pandas as pd
 
-df = pd.read_excel("data/html_entities.xlsx")
-map_html_codes_to_symbol = {
-    row["Entity Name"]: row["Symbol"] if not pd.isna(row["Symbol"]) else ""
-    for _, row in df.iterrows()
-}
+try:
+    df = pd.read_excel("data/html_entities.xlsx")
+    map_html_codes_to_symbol = {
+        row["Entity Name"]: row["Symbol"] if not pd.isna(row["Symbol"]) else ""
+        for _, row in df.iterrows()
+    }
+except:
+    pass
 
 
 def text_normalization(content: str) -> str:
@@ -174,3 +177,25 @@ def merge_on_sequence_sessions(sessions: list):
             merged_sessions.append(merged_session)
             merged_session = []
     return merged_sessions
+
+
+def get_stable_hash(s):
+    hash1 = 5381
+    hash2 = hash1
+
+    i = 0
+    while i < len(s) and s[i] != '\0':
+        hash1 = ((hash1 << 5) + hash1) ^ ord(s[i])
+        if i == len(s) - 1 or s[i + 1] == '\0':
+            break
+        hash2 = ((hash2 << 5) + hash2) ^ ord(s[i + 1])
+        i += 2
+
+    return (hash1 + (hash2 * 1566083941)) & 0xFFFFFFFF
+
+
+if __name__ == '__main__':
+    # Example usage
+    input_string = "SkillPointName_1001101"
+    hash_value = get_stable_hash(input_string)
+    print(f"The hash of '{input_string}' is: {hash_value}")
