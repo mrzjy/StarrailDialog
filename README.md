@@ -4,11 +4,6 @@ This is a small personal project that extracts Honkai: Star Rail text corpus (in
 
 本项目用于抽取崩坏：星穹铁道游戏的对话等文本语料
 
-Other projects you might be interested in:
-- [GenshinDialog](https://github.com/mrzjy/GenshinDialog): Same but for Genshin Impact 
-- [hoyo_public_wiki_parser](https://github.com/mrzjy/hoyo_public_wiki_parser): Parse Hoyoverse public wiki data
-  - Recommended: Typically this is where you could get more complete dialogues throughout various quests, together with quest descriptions
-
 ## Example
 
 ~~~
@@ -202,3 +197,13 @@ python get_missions.py --lang=CHS --repo=PATH_TO_STARRAIL_DATA
   ]
 }
 ~~~
+
+## FAQs
+
+1. Interested in some game corpus?
+
+- [GenshinDialog](https://github.com/mrzjy/GenshinDialog)
+- [StarrailDialog](https://github.com/mrzjy/StarrailDialogue)
+- [ArknightsDialog](https://github.com/mrzjy/ArknightsDialog)
+- [WutheringDialog](https://github.com/mrzjy/WutheringDialog)
+- [hoyo_public_wiki_parser](https://github.com/mrzjy/hoyo_public_wiki_parser): Parse Hoyoverse public wiki data
