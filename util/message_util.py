@@ -15,7 +15,9 @@ def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_coun
             "r",
             encoding="utf-8",
     ) as f:
-        contact_camp_info = json.load(f)
+        contact_camp_info = {
+            str(c["ContactsCamp"]): c for c in json.load(f)
+        }
 
     # get contacts name and signature
     with open(
@@ -23,7 +25,7 @@ def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_coun
             "r",
             encoding="utf-8",
     ) as f:
-        map_contact_to_info = json.load(f)
+        map_contact_to_info = {str(c["ID"]): c for c in json.load(f)}
         for contact_id, info in map_contact_to_info.items():
             try:
                 info["Name"] = text_normalization(
@@ -50,7 +52,7 @@ def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_coun
             "r",
             encoding="utf-8",
     ) as f:
-        message_info = json.load(f)
+        message_info = {str(m["ID"]): m for m in json.load(f)}
         map_section_to_messages = {}
         for message_id, item in message_info.items():
             try:
@@ -77,7 +79,7 @@ def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_coun
             encoding="utf-8",
     ) as f:
         map_session_id_to_contacts = {}
-        for key, info in json.load(f).items():
+        for info in json.load(f):
             for section_id in info["MessageSectionIDList"]:
                 if section_id not in map_session_id_to_contacts:
                     map_session_id_to_contacts[section_id] = []
@@ -89,7 +91,7 @@ def get_message(repo: str, lang: str, map_hash_to_text: dict[str, str], max_coun
             "r",
             encoding="utf-8",
     ) as f:
-        section_info = json.load(f)
+        section_info = {str(s["ID"]): s for s in json.load(f)}
 
     output_dir = os.path.join("data", "dialogues", lang)
     os.makedirs(output_dir, exist_ok=True)

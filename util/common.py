@@ -43,7 +43,11 @@ def load_sentence_map(repo: str) -> dict[str, dict]:
         "r",
         encoding="utf-8",
     ) as f:
-        return json.load(f)
+        return {
+            str(s["TalkSentenceID"]): s
+            for s in json.load(f)
+            if "TalkSentenceID" in s
+        }
 
 
 def get_speaker_content(
